@@ -3,9 +3,16 @@ title: "Join us"
 date: "2019-01-02"
 ---
 
+## Open positions
+
+* [Postdoctoral scientist](https://docs.google.com/document/d/1Pt3QJMGSTdZqt94zImMA1r4Rgv64jQziMRvW8e8Zjhs/edit?usp=sharing) -- Develop statistical methodology and open source computational software related to identifying the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell RNA-sequencing data gene expression genomic data. The position is at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), but the project also includes collaborations with [Casey Greene](http://www.greenelab.com) from the [Perelman School of Medicine](https://www.med.upenn.edu) at the University of Pennsylvania and [Jennifer Doherty](https://medicine.utah.edu/faculty/mddetail.php?facultyID=u6009101) from the [School of Medicine at the University of Utah](https://medicine.utah.edu) and the [Huntsman Cancer Institute](https://medicine.utah.edu), which will help the postdoc establish a broad network of contacts. Support for this postdoctoral position comes from the NIH Research Project Grant Program (R01) from the [National Cancer Institute](https://www.cancer.gov). More details are available on the [advertisement here](https://docs.google.com/document/d/1Pt3QJMGSTdZqt94zImMA1r4Rgv64jQziMRvW8e8Zjhs/edit?usp=sharing). 
+
+---
+
+
 ### For current students at Johns Hopkins
 
-If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the [projects](./projects.html) page for a brief summary of what's going on in the lab! 
+If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the [projects](../projects/index.html) page for a brief summary of what's going on in the lab! 
 
 If our projects don't seem that interesting to you, I'm also happy to help introduce you to other folks in data science or genomics who might have projects you are more interested in. 
 
@@ -22,10 +29,11 @@ Here are the minimum things I look for in a postdoc:
 * Written at least 1 first author paper 
 * Written at least 1 open source software package
 * [Problem forward philosophy](http://simplystatistics.org/2013/05/29/what-statistics-should-do-about-big-data-problem-forward-not-solution-backward/)
-* Has read about our [projects](./projects.html)
+* Has read about our [projects](../projects/index.html)
 * Has at least one idea they want to work on unrelated to their dissertation
 
 If you are interested in doing a postdoc send me an email with your CV, a link to the software package you built, and a short (one paragraph) description of a research project you have imagined working on. 
 
 If you are a grad student who is interested in applying for postdoctoral funding through NSF, NIH, or another funding source and want to work with me, send me an email with the above information and I'll be happy to help you with your application. 
+
 

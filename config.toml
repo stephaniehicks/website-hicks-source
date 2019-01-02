@@ -1,0 +1,89 @@
+baseurl = "http://stephaniehicks.github.io"
+languageCode = "en-us"
+title = "Stephanie Hicks"
+theme = "hugo-lithium"
+enableEmoji = true
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "README.md"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+[[menu.main]]
+    name = "Talks"
+    url = "/talks/" 
+    weight = 4
+[[menu.main]]
+    name = "Join us"
+    url = "/join/" 
+    weight = 6
+    
+[params]
+    name = "Stephanie Hicks"
+    description = "Stephanie Hicks' website"
+    
+    # Details for the Contact Widget
+    email = "shicks19@jhu.edu"
+
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fab" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fas" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fontawesome.com/icons
+  #
+  # Icon pack "ai" includes the following academic icons:
+  #
+  #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:shicks19@jhu.edu"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "//twitter.com/stephaniehicks"
+
+   [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/stephaniehicks"
+

@@ -11,8 +11,7 @@ I received my B.S. in [Mathematics](https://www.math.lsu.edu) from [LSU](https:/
 
 I completed my postdoctoral training with [Rafael Irizarry](http://rafalab.dfci.harvard.edu) ([@rafalab](https://twitter.com/rafalab)) in the [Department of Biostatistics and Computational Biology](http://bcb.dfci.harvard.edu) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and [Harvard T.H. Chan School of Public Health](http://www.hsph.harvard.edu/biostatistics). This postdoctoral research resulted in a [K99/R00 grant](https://grants.nih.gov/grants/guide/pa-files/PA-16-077.html) from the ['National Human Genome Research Institute (NHGRI)](https://www.genome.gov/) ([@genome_gov](https://twitter.com/genome_gov)) to develop [statistical methods for the normalization and quantification of single-cell RNA-Sequencing data](https://projectreporter.nih.gov/project_info_description.cfm?aid=9243746&icde=32574421&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=). 
 
-
-Fore more information, my full CV can be found [here](../../CV/CV_StephanieHicks.pdf).
+For more information, my full CV can be found [here](../../CV/CV_StephanieHicks.pdf).
 
 
 <center><img src="http://ghchart.rshah.org/4b0082/stephaniehicks" alt="Stephanie Hicks' Github chart" /, width = "80%", height = "80%"></a></center>

@@ -1,3 +1,7 @@
 public/
 .Rproj.user
 .Rhistory
+static/CV/*.aux
+static/CV/*.log
+static/CV/*.out
+static/CV/*synctex.gz

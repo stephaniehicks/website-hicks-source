@@ -28,6 +28,10 @@ The goal of this project is to identify the biological basis of subtypes of high
 
 **If you are interested in this project**, there is an open postdoctoral scientist position (see the [Join us](../join/index.html) page for more information)!
 
+#### Development and neurogenesis of the enteric nervous system with single-cell profiling
+
+This is a collaboration with [Subhash Kulkarni](https://www.klab-jhu.com) at [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/som/index.html) to broadly study the steady-state and transcriptomic changes from stimuli of cells in the enteric nervous system. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. This is key to understand the biology of persistent inflammation as well as will help identify novel drug targets and develop treatments for curbing inflammation and associated pathological changes from diseases such as colitis.
+
 --- 
 
 ### Data Science Education

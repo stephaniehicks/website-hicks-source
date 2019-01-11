@@ -5,16 +5,17 @@ date: "2018-08-24"
 
 ### 2018
 
+* [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Department of Statistics, Oregon State University. 2019 Jan 14. Corvallis, OR. USA.
 * [Orchestrating Single-Cell RNA-sequencing Analysis with Bioconductor](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor). 
     * Keynote presentation at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
     * Invited presentation at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
 * [Analyzing Genomics Data in R with Bioconductor](https://speakerdeck.com/stephaniehicks/analyzing-genomics-data-in-r-with-bioconductor) at DC R Conference. 2018 Nov 8. Washington D.C., USA.
-* Estimating cell type composition in whole blood using differentially methylated regions.
+* [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation).
 Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2. Birmingham, AL. USA.
 * Estimating cell type composition in whole blood using differentially methylated regions at the [12th Annual Symposium and Poster Session on Genomics and Bioinformatics at Johns Hopkins University](http://genomics.jhu.edu/symposium.html). 2018 Oct 25. Baltimore, MD. USA.
 * [Open challenges in Single-Cell RNA-Sequencing](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111). Joint Statistical Meetings. 2018 Jul 29-Aug 2. Vancouver, CA.
 * Open Challenges in Single-Cell RNA-Sequencing. [Single Cell Data Science: Making Sense of Data from Billions of Single Cells](http://lorentzcenter.nl/lc/web/2018/986/info.php3?wsid=986&venue=Oort). 2018 Jun 4-8. Lorentz Center, Leiden University, Netherlands.
-* Technology-independent estimation of cell type composition using differentially methylated regions. Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
+* [Technology-independent estimation of cell type composition using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
 
 
 ### 2017

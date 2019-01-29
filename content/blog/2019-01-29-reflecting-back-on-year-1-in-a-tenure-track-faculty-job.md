@@ -27,7 +27,7 @@ this is the thing I _still struggle the most with_, but I constantly
 remind myself everyday. Protect your time. It is much more 
 valuable than you could ever imagine. 
 
-<p style="text-align:center;"><img src="/../../images/polietly-say-no.png" width="600" height="500" alt="Logo"></p>
+<p style="text-align:center;"><img src="/../../images/polietly-say-no.jpg" width="600" height="500" alt="Logo"></p>
 
 - Being productive does not mean needing to spend hours in the office 
 or working on the weekends. Learn to proritize and outsource. 
@@ -45,4 +45,5 @@ mentors, [Jeff Leek](http://jtleek.com) and ask for help:
 <img style="float: center; margin:0px 20px" src="/../../images/faculty-flowchart.png" width="900" height="412" />
 
 Hope everyone's year is off to a great start! 
+
 

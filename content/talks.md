@@ -7,7 +7,7 @@ title: "Talks and Other Events"
 - Useful Tools for Teaching And Outreach In Data Science: Workflows, Case Studies, Github Classroom, and Slack. Symposium on Data Science and Statistics. 2019. May 29-Jun 1. Bellevue, WA. USA.
 - Addressing Open Challenges in Genomics and Data Science Education. Department of Statistics, Smith College. 2019 Apr 18. Northampton, MA. USA.
 - [Orchestrating Single-Cell RNA-sequencing Analysis with Bioconductor](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor). ENAR Conference. 2019 Mar 24-27. Philadelphia, PA. USA.
-- Making data science accessible world-wide in the Johns Hopkins Data Science Lab. Department of Statistics, University of Connecticut. 2019 Feb 27. Storrs, CT. USA.
+- [Making data science accessible world-wide in the Johns Hopkins Data Science Lab](https://speakerdeck.com/stephaniehicks/making-data-science-accessible-in-the-johns-hopkins-data-science-lab). Department of Statistics, University of Connecticut. 2019 Feb 27. Storrs, CT. USA.
 - Applications of Latent Variables in Identifying Systematic Errors in Genomics. Department of Statistics, Rice University. 2019 Feb 11. Houston, TX. USA.
 - [National Human Genome Research Institute’s Genome to Phenotype Strategic Planning Meeting](https://www.genome.gov/27572552/from-genome-to-phenotype--genomic-variation-identification-association-and-function-in-human-health-and-disease/). 2019 Jan 22-24. Rockville, MD, USA
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Department of Statistics, Oregon State University. 2019 Jan 14. Corvallis, OR. USA.

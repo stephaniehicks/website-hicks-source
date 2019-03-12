@@ -26,11 +26,18 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 
 The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. 
 
+#### Practical and reproducible workflows for single-cell and single-nucleus analysis of childhood cancer data
+
+The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org), is to design and build practical, reproducible, statistically-rigorous workflows for the analysis of single-cell and and single-nucleus childhood cancer data. Most importantly, this will alllow researchers studying childhood cancers use the same or similar workflows to analyze their own data, which will help scientists in the field compare and contrast across studies.
+
+
 #### Development and neurogenesis of the enteric nervous system with single-cell profiling
 
 The goal of this project is to study the steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system (ENS) in the gastrointestinal tract (gut) using bulk and single-cell gene expression data. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. The ENS contains the largest collection of neurons in the body outside of the brain that regulate diverse gastrointestinal and  metabolic functions and is commonly referred to as our "second brain". A better understanding of the gut is highly relevant to public health because alterations and inflammation in the gut have been linked to diseases such as Parkinson's, colitis, irritable bowel syndrome, anxiety and mood disorders, with limited treatment options. The long-term impact of this project will be a key step towards developing targeted treatments for curbing inflammation and associated pathological changes in the gut.
 
 **If you are interested in this project**, there is an open postdoctoral scientist position (see the [Join us](../join/index.html) page for more information)!
+
+
 
 --- 
 

@@ -7,12 +7,14 @@ date: "2019-01-02"
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges. 
 
+1. Amezquita RA, Carey VJ, Carpp LN, Geistlinger L, Lun ATL, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2019). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1101/590562). _bioRxiv_.
+
 #### Methods to address technical variablity
 
 In contrast to bulk RNA-seq experiments, the majority of reported expression levels in scRNA-seq data are zeros, which could be either biologically-driven, genes not expressing RNA at the time of measurement, or technically-driven, genes expressing RNA, but not at a sufficient level to be detected by sequencing technology. In addition, systematic errors, including batch effects, have been widely reported as a major challenge in high-throughput technologies, however, surprisingly, these issues have received minimal attention in published studies based on scRNA-seq technology. To investigate this, I examined data from fifteen published scRNA-seq studies and demonstrated that systematic errors can explain a substantial percentage of observed cell-to-cell expression variability, which in turn can lead to false discoveries, for example, when using unsupervised learning methods (1). More recently, we developed a fast, scalable statistical framework for feature selection and dimensionality reduction using generalized principal component analysis (GLM-PCA) for scRNA-seq data, which permits the identification of low-dimensional representations of cells measured with unique molecular identifiers (UMI) count data using a multinomial model (2).
 
-1.	Hicks SC, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
-2.	Townes FW, Hicks SC, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1101/574574). _bioRxiv_. 
+1.	**Hicks SC**, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
+2.	Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1101/574574). _bioRxiv_. 
 
 
 #### Fast, scalable, memory-efficient methods to analyze single-cell data
@@ -47,9 +49,9 @@ An increase in demand for statistics and data science education has led to chang
 
 In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses based on objective characteristics, and it provides a framework to teach students how to build data analyses. 
 
-1. Hicks SC, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
-2. Hicks SC (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
-3. Hicks SC, Peng RD. (2019). [Elements and Principles of Data Analysis](https://arxiv.org/abs/1903.07639). _arXiv_.
+1. **Hicks SC**, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
+2. **Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
+3. **Hicks SC**, Peng RD. (2019). [Elements and Principles of Data Analysis](https://arxiv.org/abs/1903.07639). _arXiv_.
 
 
 --- 
@@ -58,7 +60,7 @@ In addition, I am actively thinking about how to define the field from first pri
 
 In high-throughput studies, hundreds to millions of hypotheses are typically tested. Statistical methods that control the false discovery rate (FDR) have emerged as popular and powerful tools for error rate control. While classic FDR methods use only _p_-values as input, more modern FDR methods have been shown to increase power by incorporating complementary information as "informative covariates" to prioritize, weight, and group hypotheses. To address this, we investigated the accuracy, applicability, and ease of use of two classic and six modern FDR-controlling methods by performing a systematic benchmark comparison using simulation studies as well as six case studies in computational biology (1). 
 
-1. Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, Hicks SC (2018). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1101/458786). _bioRxiv_. 
+1. Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, **Hicks SC** (2018). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1101/458786). _bioRxiv_. 
 
 
 --- 
@@ -67,7 +69,7 @@ In high-throughput studies, hundreds to millions of hypotheses are typically tes
 
 Normalization is an essential step for the analysis of genomics high-throughput data. Quantile normalization is one of the most widely used multi-sample normalization tools for applications including genotyping arrays, RNA-Sequencing (RNA-Seq), DNA methylation, ChIP-Sequencing (ChIP-Seq) and brain imaging. However, quantile normalization relies on assumptions about the data-generation process that are not appropriate in some contexts. I developed a data-driven method to test these assumptions and guide the choice of an appropriate normalization method (1). The [freely available software](https://bioconductor.org/packages/release/bioc/html/quantro.html) has been downloaded over 7500 times (distinct IPs) from Bioconductor since 2014 and has helped researchers test the assumptions of global normalization methods in the analysis of their own data. To address the scenario when the assumptions of quantile normalization are not appropriate, I have developed a generalization of quantile normalization, referred to as smooth quantile normalization, which allows for global differences between biological groups (2). More recently, I collaborated with researchers from the University of Maryland to correct for compositional biases found in sparse metagenomic sequencing data (3). 
 
-1.	Hicks SC, Irizarry RA (2015). [quantro: a data-driven approach to guide the choice of an appropriate normalization method](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0). _Genome Biology_.
-2.	Hicks SC, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169?redirectedFrom=fulltext). _Biostatistics_. 
-3.	Kumar MS, Slud EV, Okrah K, Hicks SC, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
+1.	**Hicks SC**, Irizarry RA (2015). [quantro: a data-driven approach to guide the choice of an appropriate normalization method](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0). _Genome Biology_.
+2.	**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169?redirectedFrom=fulltext). _Biostatistics_. 
+3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
 

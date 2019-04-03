@@ -4,7 +4,6 @@ title: "Talks and Other Events"
 
 ### 2019
 
-\item 
 - Teaching data science through case studies in Public Health. Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - `mbkmeans`: fast clustering for single cell data using mini-batch $k$-means. Bioconductor Conference. 2019 Jul 24-27. New York City, NY, USA.
 - Useful Tools for Teaching And Outreach In Data Science: Workflows, Case Studies, Github Classroom, and Slack. Symposium on Data Science and Statistics. 2019. May 29-Jun 1. Bellevue, WA. USA.

@@ -21,7 +21,7 @@ In contrast to bulk RNA-seq experiments, the majority of reported expression lev
 
 The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq data. However, with increasing sizes of single-cell data, new methods are needed that are fast, scalable and memory-efficient. To address this, we are implementing the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large single cell sequencing data (1). The mini batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).
 
-1. [mbkmeans](https://github.com/drisso/mbkmeans).  Mini-batch k-means clustering for large single-cell datasets.
+1. [mbkmeans](http://bioconductor.org/packages/mbkmeans). Mini-batch k-means clustering for large single-cell datasets.
 
 
 #### High-grade serous ovarian cancer subtypes with single-cell profiling

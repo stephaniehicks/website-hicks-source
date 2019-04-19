@@ -7,7 +7,7 @@ title: "Talks and Other Events"
 - Teaching data science through case studies in Public Health. Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - `mbkmeans`: fast clustering for single cell data using mini-batch $k$-means. Bioconductor Conference. 2019 Jul 24-27. New York City, NY, USA.
 - Useful Tools for Teaching And Outreach In Data Science: Workflows, Case Studies, Github Classroom, and Slack. Symposium on Data Science and Statistics. 2019. May 29-Jun 1. Bellevue, WA. USA.
-- Addressing Open Challenges in Genomics and Data Science Education. Department of Statistics, Smith College. 2019 Apr 18. Northampton, MA. USA.
+- [Addressing Open Challenges Data Science Education](https://speakerdeck.com/stephaniehicks/addressing-open-challenges-in-data-science-education). Department of Statistics and Data Sciences, Smith College. 2019 Apr 18. Northampton, MA. USA.
 - Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments. ENAR Conference. 2019 Mar 24-27. Philadelphia, PA. USA.
 - [Making data science accessible world-wide in the Johns Hopkins Data Science Lab](https://speakerdeck.com/stephaniehicks/making-data-science-accessible-in-the-johns-hopkins-data-science-lab). Department of Statistics, University of Connecticut. 2019 Feb 27. Storrs, CT. USA.
 - Applications of Latent Variables in Identifying Systematic Errors in Genomics. Department of Statistics, Rice University. 2019 Feb 11. Houston, TX. USA.

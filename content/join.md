@@ -3,12 +3,6 @@ title: "Join us"
 date: "2019-01-02"
 ---
 
-## Open positions
-
-* [Postdoctoral scientist](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing) -- Develop statistical methodology and open source computational software related to studying steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system in the gastrointestinal tract using bulk and single-cell gene expression data. The position is at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), but the project also includes collaborations with [Subhash Kulkarni](https://www.klab-jhu.com/) from the [Johns Hopkins School of Medicine](https://www.hopkinsmedicine.org/som/index.html) and [Jay Pasricha](https://www.hopkinsmedicine.org/research/labs/pankaj-jay-pasricha-lab), Director of the [Johns Hopkins Center for Neurogastroenterology](https://www.hopkinsmedicine.org/gastroenterology_hepatology/specialty_centers/motility_neurogastroenterology.html) Department, which will help the postdoc establish a broad network of contacts. Support for this postdoctoral position comes from [Bluefield Innovations](https://www.bluefieldinnovations.com). More details are available on the [advertisement here](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing). 
-
----
-
 
 ### For current students at Johns Hopkins
 

@@ -3,6 +3,11 @@ title: "Software and data packages"
 date: "2019-01-02"
 ---
 
+## [Open Case Studies](https://opencasestudies.github.io) data analyses
+
+- [opencasestudies/ocs-police-shootings-firearm-legislation](https://github.com/opencasestudies/ocs-police-shootings-firearm-legislation): Firearm Legislation and Fatal Police Shootings in the United States. http://doi.org/10.5281/zenodo.2565249.
+- [opencasestudies/ocs-healthexpenditure](https://github.com/opencasestudies/ocs-healthexpenditure): Exploring Health Expenditure using State-level data in the United States. http://doi.org/10.5281/zenodo.2565307.
+
 ## Bioconductor 
 
 #### Software 

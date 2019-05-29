@@ -3,17 +3,6 @@ title: "Join us"
 date: "2019-01-02"
 ---
 
-### Open positions available 
-
-[Research Associate](https://docs.google.com/document/d/1LP1BGxFFl_40Ikoou91ZN2MuqU3TrpsklIuLeOLNXAg/edit?usp=sharing) – Faculty position to develop educational content and products for the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) (DaSL) – a group of faculty, postdocs, students, and staff at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu) (JHSPH) who are focused on developing and distributing educational material focused on data sciences – the number one rated job nationwide. We have multiple positions available to support several ongoing projects that we hope will have a major impact on the data science educational landscape. 
-
-- This candidate will develop educational content for the [Open Case Studies](https://opencasestudies.github.io) (OCS) project – a free educational resource of case studies created for educators to teach students how to effectively analyze data and solve real-world challenges and to move into data science. 
-- This candidate will develop educational content for [massive online open courses](https://jhudatascience.org/courses.html) including the Johns Hopkins [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera and [Chromebook Data Science and Chromebook Data Science Plus](http://jhudatascience.org/chromebookdatascience/) - ongoing projects to ensure that data science education is accessible to all educational levels. 
-
-The candidates will develop technology for automating and streamlining content creation using the R programming language and application programming interfaces (APIs). In addition, the candidates will also have the opportunity for outreach for children, including our [data science puppets](https://jhudatascience.org/puppets.html) and in development children’s books around statistics. The candidate will report to DaSL leadership and is not responsible for the direct supervision of staff. For more information, check out the [advertisement](https://docs.google.com/document/d/1LP1BGxFFl_40Ikoou91ZN2MuqU3TrpsklIuLeOLNXAg/edit?usp=sharing). 
-
-
-
 ### For current students at Johns Hopkins
 
 If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the [projects](../projects/index.html) page for a brief summary of what's going on in the lab! 

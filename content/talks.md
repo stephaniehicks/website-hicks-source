@@ -2,9 +2,16 @@
 title: "Talks and Other Events"
 ---
 
+### 2020
+
+- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
+- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
+
 ### 2019
 
-- Addressing Public Health Challenges through Data Science Education. [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019. Nov 2-6. Philadelphia, PA. USA
+- Data Science Leadership Summit. 2019 Nov 7-9. Santa Fe, NM. USA. 
+- Addressing Public Health Challenges through Data Science Education. [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019. Nov 2-6. Philadelphia, PA. USA.
+- Addressing Open Challenges in Data Science Education. Mathematics Departments and the Explosive Growth of Computational and Quantitative Offerings in Higher Education. 2019 Oct 25. Washington, D.C. USA. 
 - Teaching data science through case studies in Public Health. Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - `mbkmeans`: fast clustering for single cell data using mini-batch _k_-means. Bioconductor Conference. 2019 Jul 24-27. New York City, NY. USA.
 - [Why Statistics Matters: Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) at Johns Hopkins University. 2019. June 4-7. Baltimore, MD. USA.

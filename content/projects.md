@@ -56,7 +56,7 @@ In addition, I am actively thinking about how to define the field from first pri
 
 In high-throughput studies, hundreds to millions of hypotheses are typically tested. Statistical methods that control the false discovery rate (FDR) have emerged as popular and powerful tools for error rate control. While classic FDR methods use only _p_-values as input, more modern FDR methods have been shown to increase power by incorporating complementary information as "informative covariates" to prioritize, weight, and group hypotheses. To address this, we investigated the accuracy, applicability, and ease of use of two classic and six modern FDR-controlling methods by performing a systematic benchmark comparison using simulation studies as well as six case studies in computational biology (1). 
 
-1. Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, **Hicks SC** (2018). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1101/458786). _bioRxiv_. 
+1. Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, **Hicks SC** (2019). [A practical guide to methods controlling false discoveries in computational biology](https://doi.org/10.1186/s13059-019-1716-1). _Genome Biology_. 
 
 
 --- 

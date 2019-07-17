@@ -5,16 +5,16 @@ date: "2019-01-02"
 
 ## [Open Case Studies](https://opencasestudies.github.io) data analyses
 
-- [opencasestudies/ocs-police-shootings-firearm-legislation](https://github.com/opencasestudies/ocs-police-shootings-firearm-legislation): Firearm Legislation and Fatal Police Shootings in the United States. http://doi.org/10.5281/zenodo.2565249.
-- [opencasestudies/ocs-healthexpenditure](https://github.com/opencasestudies/ocs-healthexpenditure): Exploring Health Expenditure using State-level data in the United States. http://doi.org/10.5281/zenodo.2565307.
+- [opencasestudies/ocs-police-shootings-firearm-legislation](https://github.com/opencasestudies/ocs-police-shootings-firearm-legislation): Firearm Legislation and Fatal Police Shootings in the United States. [![DOI](https://zenodo.org/badge/151612152.svg)](https://zenodo.org/badge/latestdoi/151612152)
+- [opencasestudies/ocs-healthexpenditure](https://github.com/opencasestudies/ocs-healthexpenditure): Exploring Health Expenditure using State-level data in the United States. [![DOI](https://zenodo.org/badge/151142096.svg)](https://zenodo.org/badge/latestdoi/151142096)
 
 ## Bioconductor 
 
 #### Software 
 
-- [R/mbkmeans](http://bioconductor.org/packages/mbkmeans): R/Bioconductor package implementing the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large datasets, including single-cell RNA-sequencing data. The mini batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).
-- [R/qsmooth](http://bioconductor.org/packages/qsmooth): R package available that implements a generalization of quantile normalization, referred to as smooth quantile normalization (**qsmooth**), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. ([Hicks et al., 2018. _Biostatistics_](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169))
-- [R/quantro](http://www.bioconductor.org/packages/release/bioc/html/quantro.html): R package available on Bioconductor to test for global differences between groups of distributions to decide when to use quantile normalization. ([Hicks and Irizarry, 2015. _Genome Biology_](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0))
+- [R/mbkmeans](http://bioconductor.org/packages/mbkmeans) <img src="https://bioconductor.org/shields/years-in-bioc/mbkmeans.svg">: R/Bioconductor package implementing the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large datasets, including single-cell RNA-sequencing data. The mini batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).
+- [R/qsmooth](http://bioconductor.org/packages/qsmooth) <img src="https://bioconductor.org/shields/years-in-bioc/qsmooth.svg">: R package available that implements a generalization of quantile normalization, referred to as smooth quantile normalization (**qsmooth**), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. ([Hicks et al., 2018. _Biostatistics_](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169))
+- [R/quantro](http://www.bioconductor.org/packages/release/bioc/html/quantro.html) <img src="https://bioconductor.org/shields/years-in-bioc/quantro.svg">: R package available on Bioconductor to test for global differences between groups of distributions to decide when to use quantile normalization. ([Hicks and Irizarry, 2015. _Genome Biology_](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0))
 
 #### Data packages
 

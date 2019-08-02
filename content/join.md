@@ -3,6 +3,12 @@ title: "Join us"
 date: "2019-01-02"
 ---
 
+
+### Open positions
+
+* [Post-Doctoral Fellowship](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing)
+
+
 ### For current students at Johns Hopkins
 
 If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the [projects](../projects/index.html) page for a brief summary of what's going on in the lab! 

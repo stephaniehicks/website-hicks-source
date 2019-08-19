@@ -7,7 +7,8 @@ date: "2018-10-18"
 
 ### Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
 
-2018 | **Co-instructor**, [Advanced Data Science](https://jhu-advdatasci.github.io/2018/)
+* 2019 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2019/)
+* 2018 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2018/)
 
 ### Department of Data Sciences, Dana-Farber Cancer Institute
 ### Department of Biostatistics, Harvard T.H. Chan School of Public Health

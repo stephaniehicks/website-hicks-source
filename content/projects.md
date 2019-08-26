@@ -25,6 +25,7 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 
 1. [mbkmeans](http://bioconductor.org/packages/mbkmeans). Mini-batch k-means clustering for large single-cell datasets.
 
+**[Join us](../join/index.html)** with an open postdoctoral position!
 
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
 
@@ -38,6 +39,8 @@ The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://w
 #### Development and neurogenesis of the enteric nervous system with single-cell profiling
 
 The goal of this project is to study the steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system (ENS) in the gastrointestinal tract (gut) using bulk and single-cell gene expression data. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. The ENS contains the largest collection of neurons in the body outside of the brain that regulate diverse gastrointestinal and  metabolic functions and is commonly referred to as our "second brain". A better understanding of the gut is highly relevant to public health because alterations and inflammation in the gut have been linked to diseases such as Parkinson's, colitis, irritable bowel syndrome, anxiety and mood disorders, with limited treatment options. The long-term impact of this project will be a key step towards developing targeted treatments for curbing inflammation and associated pathological changes in the gut.
+
+**[Join us](../join/index.html)** with an open postdoctoral position!
 
 --- 
 

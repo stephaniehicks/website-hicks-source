@@ -6,9 +6,7 @@ date: "2019-01-02"
 
 ### Open positions
 
-1. [Postdoctoral Scientist position](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing) to develop statistical methods for the analysis of single-cell data along the gut-brain axis
-
-2. [Postdoctoral Scientist position](https://docs.google.com/document/d/1B9nAjJx8pVzbVKXbmHrwM_3x20piGzISvplNrGCxFpE/edit?usp=sharing) to develop interactive data visualization tools for the analysis of large-scale single-cell data in the R/Bioconductor framework
+[Postdoctoral Scientist position](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing) to develop statistical methods for the analysis of single-cell data along the gut-brain axis
 
 ### For current students at Johns Hopkins
 

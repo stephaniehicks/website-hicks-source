@@ -4,19 +4,25 @@ title: "Talks and Other Events"
 
 ### 2020
 
+- Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
+- Bioconductor Conference. 2020 Jul 29-31. Boston, MA.
+- [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2020/)
+(SDSS). 2020 Jun 3-6. Pittsburgh, PA. USA.
+- [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
 - Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
 
 ### 2019
 
+- [NormJam](https://normjam.github.io): A normalization workshop and jamboree for scRNA-seq data. 2019 Nov 19-20. New York City, NY. USA.
 - Data Science Leadership Summit. 2019 Nov 7-9. Santa Fe, NM. USA. 
-- Addressing Public Health Challenges through Data Science Education. [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019. Nov 2-6. Philadelphia, PA. USA.
+- Addressing Public Health Challenges through Data Science Education. [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019 Nov 2-6. Philadelphia, PA. USA.
 - Addressing Open Challenges in Data Science Education. Mathematics Departments and the Explosive Growth of Computational and Quantitative Offerings in Higher Education. 2019 Oct 25. Washington, D.C. USA. 
 - [Teaching data science through case studies in Public Health](https://speakerdeck.com/stephaniehicks/teaching-data-science-through-case-studies-in-public-health). Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - [`mbkmeans`: fast clustering for single cell data using mini-batch _k_-means](https://docs.google.com/presentation/d/1AlwLGTlc3ZFxY8PLpCZ5cwD3ktQyQqb1V6qub2I8360/edit?usp=sharing). Bioconductor Conference. 2019 Jul 24-27. New York City, NY. USA.
-- [Why Statistics Matters: Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) at Johns Hopkins University. 2019. June 4-7. Baltimore, MD. USA.
-- [Useful Tools for Teaching And Outreach In Data Science](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science). Symposium on Data Science and Statistics. 2019. May 29-Jun 1. Bellevue, WA. USA.
+- [Why Statistics Matters: Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) at Johns Hopkins University. 2019 June 4-7. Baltimore, MD. USA.
+- [Useful Tools for Teaching And Outreach In Data Science](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science). Symposium on Data Science and Statistics. 2019 May 29-Jun 1. Bellevue, WA. USA.
 - [Addressing Open Challenges Data Science Education](https://speakerdeck.com/stephaniehicks/addressing-open-challenges-in-data-science-education). Department of Statistics and Data Sciences, Smith College. 2019 Apr 18. Northampton, MA. USA.
 - Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments. ENAR Conference. 2019 Mar 24-27. Philadelphia, PA. USA.
 - [Making data science accessible world-wide in the Johns Hopkins Data Science Lab](https://speakerdeck.com/stephaniehicks/making-data-science-accessible-in-the-johns-hopkins-data-science-lab). Department of Statistics, University of Connecticut. 2019 Feb 27. Storrs, CT. USA.

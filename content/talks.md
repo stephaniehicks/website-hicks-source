@@ -18,7 +18,7 @@ title: "Talks and Other Events"
 - [NormJam](https://normjam.github.io): A normalization workshop and jamboree for scRNA-seq data. 2019 Nov 19-20. New York City, NY. USA.
 - Data Science Leadership Summit. 2019 Nov 7-9. Santa Fe, NM. USA. 
 - Addressing Public Health Challenges through Data Science Education. [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019 Nov 2-6. Philadelphia, PA. USA.
-- Addressing Open Challenges in Data Science Education. Mathematics Departments and the Explosive Growth of Computational and Quantitative Offerings in Higher Education. 2019 Oct 25. Washington, D.C. USA. 
+- [Making data science accessible in the Johns Hopkins Data Science Lab](https://docs.google.com/presentation/d/1whqrmbkilpZopqfg8MQ6MRJR2PYUAAsbCxwK-eq-HDM/edit?usp=sharing). Mathematics Departments and the Explosive Growth of Computational and Quantitative Offerings in Higher Education. 2019 Oct 25. Washington, D.C. USA. 
 - [Teaching data science through case studies in Public Health](https://speakerdeck.com/stephaniehicks/teaching-data-science-through-case-studies-in-public-health). Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - [`mbkmeans`: fast clustering for single cell data using mini-batch _k_-means](https://docs.google.com/presentation/d/1AlwLGTlc3ZFxY8PLpCZ5cwD3ktQyQqb1V6qub2I8360/edit?usp=sharing). Bioconductor Conference. 2019 Jul 24-27. New York City, NY. USA.
 - [Why Statistics Matters: Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) at Johns Hopkins University. 2019 June 4-7. Baltimore, MD. USA.

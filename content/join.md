@@ -6,7 +6,8 @@ date: "2019-01-02"
 
 ### Open positions
 
-[Postdoctoral Scientist position](https://docs.google.com/document/d/1hhOEMYVMPfGKHB5un0kbTVIy51tuBZA7NvYc6SYAW-o/edit?usp=sharing) to develop statistical methods for the analysis of single-cell data along the gut-brain axis
+[Postdoctoral Scientist position](https://docs.google.com/document/d/1B9nAjJx8pVzbVKXbmHrwM_3x20piGzISvplNrGCxFpE/edit?usp=sharing) to develop statistical methods for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. 
+
 
 ### For current students at Johns Hopkins
 

@@ -14,7 +14,7 @@ title: "People"
 
 | Name| Research topic |
 | :---- | :---- | 
-| Carrie Wright | Research Associate (Biostatistics Faculty) starting September 2019 working on developing data science educational content for the [JHU Data Science Lab](https://jhudatascience.org) including [Open Case Studies](https://opencasestudies.github.io). |
+| Carrie Wright | Research Associate (Biostatistics Faculty) working on developing data science educational content for the [JHU Data Science Lab](https://jhudatascience.org) including [Open Case Studies](https://opencasestudies.github.io). |
 |<img width=250/>|<img width=600/>|
 
 
@@ -23,7 +23,6 @@ title: "People"
 
 | Name| Research topic |
 | :---- | :---- | 
-| Ruoxi Liu| Benchmarking the performance of the R/Bioconductor [mbkmeans](http://bioconductor.org/packages/mbkmeans) (mini-batch _k_-means) package for clustering large-scale single-cell RNA-seq data.| 
 | Kexin (Sheena) Wang | Contributor to the [Open Case Studies](https://opencasestudies.github.io) project. |
 |Michael Ontiveros | Contributor to the [Open Case Studies](https://opencasestudies.github.io) project. |
 |<img width=250/>|<img width=600/>|
@@ -31,6 +30,7 @@ title: "People"
 
 ## Past Research Assistants 
 
+- Ruoxi Liu
 - Alexandra Stephens
 - Hanchao (Ted) Zhang
 - Pei-Lun (Perry) Kuo

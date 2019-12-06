@@ -5,18 +5,19 @@ title: "Talks and Other Events"
 ### 2020
 
 - Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
-- Bioconductor Conference. 2020 Jul 29-31. Boston, MA.
+- [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA.
 - [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2020/)
 (SDSS). 2020 Jun 3-6. Pittsburgh, PA. USA.
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
+- Columbia (University) Data Science Summit. 2020 Jan 17. New York City, NY. USA.
 - Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
 
 ### 2019
 
 - [NormJam](https://normjam.github.io): A normalization workshop and jamboree for scRNA-seq data. 2019 Nov 19-20. New York City, NY. USA.
-- Data Science Leadership Summit. 2019 Nov 7-9. Santa Fe, NM. USA. 
+- [Data Science Leadership Summit](https://sites.google.com/msdse.org/datascienceleadership2019). 2019 Nov 7-9. Santa Fe, NM. USA. 
 - [Addressing Public Health Challenges through Data Science Education](https://docs.google.com/presentation/d/1emK1ORCmRaJLYDYwWPGhaqNRY2D8cdem_EIFmCmqS00/edit?usp=sharing). [American Public Health Association Annual Meeting](https://www.apha.org/annualmeeting). 2019 Nov 2-6. Philadelphia, PA. USA.
 - [Making data science accessible in the Johns Hopkins Data Science Lab](https://docs.google.com/presentation/d/1whqrmbkilpZopqfg8MQ6MRJR2PYUAAsbCxwK-eq-HDM/edit?usp=sharing). Mathematics Departments and the Explosive Growth of Computational and Quantitative Offerings in Higher Education. [AMS Annual Mini-conference on Education](http://www.ams.org/meetings/coeminiconference). 2019 Oct 25. Washington, D.C. USA. 
 - [Teaching data science through case studies in Public Health](https://speakerdeck.com/stephaniehicks/teaching-data-science-through-case-studies-in-public-health). Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 

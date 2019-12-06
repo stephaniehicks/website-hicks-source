@@ -7,9 +7,16 @@ date: "2019-01-02"
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges (1, 2). 
 
-1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1101/590562). Accepted in _Nature Methods_.
+1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2019). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
 
 2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, Campbell K, Mahfouz A, Pinello L, Skums P, Stamatakis A, Stephan-Otto Attolini C, Aparicio S, Baaijens J, Balvert M, de Barbanson B, Cappuccio A, Corleone G, Dutilh B, Florescu M, Guryev V, Holmer R, Jahn K, Lobo TJ, Keizer E, Khatri I, Kiełbasa S, Korbel J, Kozlov A, Kuo T-H, Lelieveldt B, Mandoiu I, Marioni J, Marschall T, Mölder F, Niknejad A, Rączkowski L, Reinders M, de Ridder J, Saliba A-E, Somarakis A, Stegle O, Theis F, Yang H, Zelikovsky A, McHardy A, Raphael B, Shah S, Schönhuth S. (2019). [12 Grand Challenges in Single-Cell Data Science](https://doi.org/10.7287/peerj.preprints.27885v1). _Peer J Preprints_.
+
+#### Spatial transcriptomics 
+
+The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
+
+**[Join us](../join/index.html)** with an open postdoctoral position!
+
 
 #### Methods to address technical variablity
 
@@ -25,22 +32,18 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 
 1. [mbkmeans](http://bioconductor.org/packages/mbkmeans). Mini-batch k-means clustering for large single-cell datasets.
 
-**[Join us](../join/index.html)** with an open postdoctoral position!
-
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
 
 The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. 
 
 #### Practical and reproducible workflows for single-cell and single-nucleus analysis of childhood cancer data
 
-The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org), is to design and build practical, reproducible, statistically-rigorous workflows for the analysis of single-cell and and single-nucleus childhood cancer data. Most importantly, this will alllow researchers studying childhood cancers use the same or similar workflows to analyze their own data, which will help scientists in the field compare and contrast across studies.
+The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org), is to design and build practical, reproducible, statistically-rigorous workflows for the analysis of single-cell and and single-nucleus childhood cancer data. Most importantly, this will alllow researchers studying childhood cancers use the same or similar workflows to analyze their own data, which will help scientists in the field compare and contrast across studies. For more information, see the [highlight](https://www.alexslemonade.org/project/practical-reproducible-and-statistically-rigorous-workflows-single-nucleus-analysis) on the Alex's Lemonade Stand Foundation website. 
 
 
 #### Development and neurogenesis of the enteric nervous system with single-cell profiling
 
 The goal of this project is to study the steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system (ENS) in the gastrointestinal tract (gut) using bulk and single-cell gene expression data. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. The ENS contains the largest collection of neurons in the body outside of the brain that regulate diverse gastrointestinal and  metabolic functions and is commonly referred to as our "second brain". A better understanding of the gut is highly relevant to public health because alterations and inflammation in the gut have been linked to diseases such as Parkinson's, colitis, irritable bowel syndrome, anxiety and mood disorders, with limited treatment options. The long-term impact of this project will be a key step towards developing targeted treatments for curbing inflammation and associated pathological changes in the gut.
-
-**[Join us](../join/index.html)** with an open postdoctoral position!
 
 --- 
 
@@ -73,4 +76,4 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 1.	**Hicks SC**, Irizarry RA (2015). [quantro: a data-driven approach to guide the choice of an appropriate normalization method](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0679-0). _Genome Biology_.
 2.	**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169). _Biostatistics_.
 3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
-4. 	**Hicks SC**, Irizarry RA (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1101/213769). Accepted in _Genome Biology_.
+4. 	**Hicks SC**, Irizarry RA (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.

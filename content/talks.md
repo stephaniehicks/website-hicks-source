@@ -11,8 +11,9 @@ title: "Talks and Other Events"
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
+- Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
 - Columbia (University) Data Science Summit. 2020 Jan 17. New York City, NY. USA.
-- Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
+- More (single-cell) data, more (statistical) problems. Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
 
 ### 2019
 

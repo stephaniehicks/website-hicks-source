@@ -6,6 +6,7 @@ title: "Talks and Other Events"
 
 - Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
 - [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA.
+- Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. 
 - [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2020/)
 (SDSS). 2020 Jun 3-6. Pittsburgh, PA. USA.
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.

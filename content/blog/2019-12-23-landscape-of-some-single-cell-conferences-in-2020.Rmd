@@ -1,0 +1,316 @@
+---
+title: Shopping around for what single-cell conferences to attend in 2020?
+author: Stephanie Hicks
+date: '2019-12-23'
+slug: landscape-of-some-single-cell-conferences-in-2020
+categories:
+  - single-cell
+tags:
+  - single-cell
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The new year is around the corner and you might be interested in figuring out what single-cell conferences to attend in 2020.
+A [list of some single-cell conferences in 2020](http://single-cell.net/Conferences/single_cell) came across my twitter feed the other day and I started to peruse it. 
+If you are interested in attending of them, I thought I write up a quick blogpost to help make some comparisons between the single-cell conferences. 
+
+## Load packages
+
+First we will load some packages. 
+
+```{r}
+suppressMessages({
+  library(here)
+  library(tidyverse)
+  library(rvest)
+  library(UpSetR)
+  library(gender)
+})
+
+here()
+```
+
+
+## Load data 
+
+First let's create a dataframe with the short and long name for each conference and the url. 
+I only considered conferences that had a list of names for the organizing committee and confirmed speakers available as of Dec 2019. 
+
+```{r}
+url_wellcome2020 <- "https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/"
+url_cellsymp <- "http://www.cell-symposia.com/conceptual-single-cells-2020/"
+url_keystone <- "https://www.keystonesymposia.org/ks/Online/Events/2020F1/Details.aspx?EventKey=2020F1&Tabs=2#Tabs"
+url_grc_scgenomics <- "https://www.grc.org/single-cell-genomics-conference/2020/"
+url_grc_sccancerbio <- "https://www.grc.org/single-cell-cancer-biology-conference/2020/"
+url_emrg_tech <- "https://www.vibconferences.be/events/emerging-technologies-in-single-cell-research#speakers"
+
+url_confs <- tibble(name_conf = c("wellcome", "cell_symp", "keystone", "grc_scgenomics", "grc_sccancerbio", "emrg_tech"),
+                    name_long = c("Wellcome Genome Campus: Single Cell Biology", 
+                                  "Cell Symposia: The Conceptual Power of Single Cell Biology", "Keystone Symposia: Single Cell Biology", "Gordon Research Conference: Single-Cell Genomics", "Gordon Research Conference: Single-Cell Cancer Biology", "Emerging Technologies in Single Cell Research"),
+                    url = c(url_wellcome2020, url_cellsymp, url_keystone, url_grc_scgenomics, url_grc_sccancerbio, url_emrg_tech))
+
+url_confs
+```
+
+Next, I used a combination of [`rvest`](https://cran.r-project.org/web/packages/rvest/index.html) or by hand adding in the names of the organizing committees and speakers for each conference (depending on my frustration level with rvest and/or XML/HTML). 
+
+#### Wellcome Genome Campus: Single Cell Biology
+
+```{r}
+wellcome_committee <- c("Ellen Rothenberg", "Sarah Teichmann", 
+                        "Fabian Theis", "Itai Yanai")
+wellcome_speakers <- c("Kathy Cheah", "Polly Fordyce", "Eileen Furlong",
+                       "Gillian Griffiths", "Guoji Guo", "Muzz Haniffa",
+                       "Joakim Lundeberg", "Samantha Morris", "Mats Nilsson", 
+                       "Rahul Satija", "Timm Schroeder", "Fabian Theis",
+                       "Barbara Treutlein", "Ludovic Vallier", "Roser Vento",
+                       "Itai Yanai")
+wellcome_all <- unique(c(wellcome_committee, wellcome_speakers))
+```
+
+#### Cell Symposia: The Conceptual Power of Single Cell Biology
+
+```{r}
+h <- read_html(url_confs[which(url_confs$name_conf == "cell_symp"),]$url)
+
+conf_names <- h %>% 
+  html_nodes(".blue .bold") %>% 
+  html_text()
+
+cell_symp_committee <- conf_names[c(22, 24,25)] 
+cell_symp_committee[2:3] <- stringr::str_sub(string = cell_symp_committee[2:3], end = -3)
+cell_symp_speakers <- conf_names[1:21]
+cell_symp_all <- unique(c(cell_symp_committee, cell_symp_speakers))
+```
+
+#### Keystone Symposia: Single Cell Biology
+
+```{r}
+keystone_committee <- c("Charles Ansong", "Nikolaus Rajewsky", 
+                        "Massimiliano Pagani")
+keystone_speakers <- c("Eileen E.M. Furlong", "Barbara Treutlein", "Ido Amit", 
+                "Hans Clevers", "Charles Ansong", "Sarah Teichmann", 
+                "Fabian Theis", "Matthias Mann", "Jeffrey A. Whitsett",
+                "Nikolaus Rajewsky", "Alexander Schier", "Stefano Piccolo", 
+                "Julia Laskin", "Bernd Bodenmiller", "Evan Macosko", 
+                "Massimiliano Pagani", "Evan W. Newell", "Peter Lichter", 
+                "Alexander van Oudenaarden", "Iannis Aifantis", "Aron Jaffe", 
+                "Sten Linnarsson", "Ana Pombo", "Bosiljka Tasic", "Liqun Luo", 
+                "David Van Valen", "Jörg Vogel", "Angela Ciuffi")
+
+keystone_all <- unique(c(keystone_committee, keystone_speakers))
+```
+
+#### Gordon Research Conference: Single-Cell Genomics
+
+```{r}
+h <- read_html(url_confs[which(url_confs$name_conf == "grc_scgenomics"),]$url)
+
+conf_names <- h %>% 
+  html_nodes(".name strong") %>% 
+  html_text()
+
+grc_scgenomics_committee <- c("Xiaoliang Sunney Xie", "Stephen R. Quake", 
+                              "Xiaowei Zhuang", "Barbara Treutlein")
+grc_scgenomics_speakers <- conf_names
+grc_scgenomics_all <- unique(c(grc_scgenomics_committee, grc_scgenomics_speakers))
+```
+
+#### Gordon Research Conference: Single-Cell Cancer Biology
+
+```{r}
+h <- read_html(url_confs[which(url_confs$name_conf == "grc_sccancerbio"),]$url)
+
+conf_names <- h %>% 
+  html_nodes(".name strong") %>% 
+  html_text()
+
+grc_sccancerbio_committee <- c("Kai Tan", "Nicholas Navin", "Mario Suva", 
+                              "Sohrab Shah")
+grc_sccancerbio_speakers <- conf_names
+grc_sccancerbio_all <- unique(c(grc_sccancerbio_committee, grc_sccancerbio_speakers))
+
+
+```
+
+#### Emerging Technologies in Single Cell Research
+
+```{r}
+emrg_tech_committee <- c("Jean-Christophe Marine", "Diether Lambrechts", 
+                         "Stein Aerts", "Yvan Saeys", "Martin Guilliams", 
+                         "Ana Pombo", "Helen Parkinson", "Amos Tanay", 
+                         "Evy Vierstraete")
+
+emrg_tech_speakers <- c("Leeat Keren", "Miao-Ping Chien", "Jop Kind", 
+                         "Klass Mulder", "Nitzan Mor", "Celine Vallot", 
+                         "Nikolaus Rajewsky", "Amos Tanay", "Ana Pombo", 
+                         "Oana Ursu")
+emrg_tech_all <- unique(c(emrg_tech_committee, emrg_tech_speakers))
+
+```
+
+## Find overlaps
+
+Next, I combined all the organizing committee members and speakers into a big list into an [`UpSetr`](https://cran.r-project.org/web/packages/UpSetR/vignettes/basic.usage.html) plot to find out how many overlaps there were between confirmed individuals attending the conferences.
+Note, the default is to use `nsets=5`, where `nsets` is the number of sets to consider. Here we have 6 conferences, so 6 sets. So I bumped it up to `nsets=6` to show overlap between 
+all 6 conferences. 
+
+```{r, fig.width=12, fig.height=8}
+data_list <- list(wellcome = wellcome_all, cell_symp = cell_symp_all, 
+                    keystone = keystone_all, 
+                    grc_scgenomics = grc_scgenomics_all, 
+                    grc_sccancerbio = grc_sccancerbio_all, 
+                    emrg_tech = emrg_tech_all)
+
+upset(fromList(data_list), nsets = 6, order.by = "freq")
+```
+
+So you can see there are quite a few individuals who are confirmed speakers or on the organzing committee for multiple single-cell conferences in 2020 confirming my quick scan of the websites. There are at least two individuals who are scheduled to attend three out of the six single-cell conferences! 
+
+Let's do a bit of digging to see who these individuals are. 
+Just think if you miss them at one conference, you might be able to catch them at another later in the year! :) 
+
+## Data wrangling
+
+Next, I converted the list of names for each conference into a dataframe with one column referring to the conference name, the second is the name of the individual. 
+
+```{r}
+df <- tibble(name_conf = names(unlist(data_list)),
+             name_ind = c(unlist(data_list)))
+df
+```
+
+I removed the numbers from the end of the conference name 
+```{r}
+df$name_conf <- gsub('[[:digit:]]+', '', df$name_conf)
+head(df$name_conf)
+```
+
+And had to do some manual text wrangling to remove the middle initials of a few individuals and change the name of two other individuals as the names to reflect either the full name of an individual or that another individual's last name was referred to differently across conference websites. 
+```{r}
+df[match(c("Eileen E.M. Furlong", "Jeffrey A. Whitsett", "Evan W. Newell", 
+           "Stephen R. Quake"), df$name_ind), ]$name_ind <- 
+  c("Eileen Furlong", "Jeffrey Whitsett", "Evan Newell", "Stephen Quake")
+df[grep("Muzz Haniffa", df$name_ind),]$name_ind <- "Muzlifah Haniffa"
+df[grep("Vento", df$name_ind),]$name_ind <- "Roser Vento-Tormo"
+```
+
+Next, I split the full names of the individuals into first and last names and converted the data frame into a tibble. 
+```{r}
+df <- cbind(df, plyr::ldply(stringr::str_split(
+                df$name_ind, pattern = " ", n = 2)))
+colnames(df)[match(c("V1", "V2"), colnames(df))] <- 
+  c("name_first", "name_last")
+df <- as_tibble(df)
+df
+```
+
+## Exploratory data analysis 
+
+Let's do some exploratory data analysis (EDA). 
+
+First let's see who are the individuals who are attending multiple single-cell conferences this summer as confirmed speakers or on the organizing committee. 
+
+```{r}
+df %>% 
+  group_by(name_ind) %>% 
+  summarize(tot = n()) %>% 
+  filter(tot > 1) %>% 
+  arrange(desc(tot)) %>% 
+  as.data.frame()
+```
+
+Lots of great speakers on this list! 
+
+I also wanted to get a rough idea of what the gender balance was for each of the conferences. 
+To do this, I used the [`gender`](https://cran.r-project.org/web/packages/gender/index.html) R package to infers state-recorded gender categories from first names using historical datasets.
+
+#### Inferring the gender 
+
+Here I'm using the `gender()` function with the `method = "genderize"`, which uses the [Genderize.io](http://genderize.io/) API. Reading the documention, this is based on "user profiles across major social networks." 
+
+As there is an API limit on Genderize.io, I saved the dataset and load it in directly so I do not accidentally hit my limit each time I knit this R Markdown. 
+
+```{r}
+if(!file.exists(here("static", "data", "sc2020_genderize.csv"))){
+  df_genderize <- gender(unique(df$name_first), method = "genderize")
+  write_csv(df_genderize, here("static", "data", "sc2020_genderize.csv"))
+} else { 
+  df_genderize <- read_csv(here("static", "data", "sc2020_genderize.csv"))
+}
+df_genderize
+```
+
+We see for each first name, we get returned the proportion of male (or female) names. 
+
+Then, I combine our data frame (`df`) above with the `df_genderize` data frame using a `left_join()` function from `dplyr` 
+
+```{r}
+colnames(df_genderize)[1] <- "name_first"
+df <- dplyr::left_join(df, df_genderize, by = "name_first")
+
+df %>% 
+  select(name_conf, name_ind, gender, proportion_female, proportion_male)
+```
+
+After doing some digging, I noticed two incorrectly predicted gender labels. For example, [Xiaowei Zhuang](https://en.wikipedia.org/wiki/Xiaowei_Zhuang) is referred to as a "she" in this wikipedia page, therefore, I modified the prediction here. 
+
+```{r}
+df[grep("Xiaowei", df$name_ind),]$gender <- "female"
+df[grep("Xiaowei", df$name_ind),]$proportion_female <- 
+  1 - unique(df[grep("Xiaowei", df$name_ind),]$proportion_female)
+df[grep("Xiaowei", df$name_ind),]$proportion_male <- 
+  1 - unique(df[grep("Xiaowei", df$name_ind),]$proportion_male)
+df[grep("Xiaowei", df$name_ind),]
+```
+
+I also noticed [Liqun Luo](https://en.wikipedia.org/wiki/Liqun_Luo) is referred to as a "he" in the Wikipedia page, so I modified the label. 
+
+```{r}
+df[grep("Liqun", df$name_ind),]$gender <- "male"
+df[grep("Liqun", df$name_ind),]$proportion_female <- 
+  1 - unique(df[grep("Liqun", df$name_ind),]$proportion_female)
+df[grep("Liqun", df$name_ind),]$proportion_male <- 
+  1 - unique(df[grep("Liqun", df$name_ind),]$proportion_male)
+df[grep("Liqun", df$name_ind),]
+```
+
+There were also some names that had no gender predictions returned. 
+
+```{r}
+df[is.na(df$proportion_female),] 
+```
+
+I used some of my google-fu to use my best judgement on what the individual's gender might be.
+However, it is worth noting that gender is not binary and I am only performing this part of the analysis to get a better guess of the gender-balance for the population as a whole for each conference. 
+
+```{r}
+df[match(c("Leeat Keren", "Miao-Ping Chien", "Liynat Jerby-Arnon"), df$name_ind),]$gender <- "female"
+df[match(c("Chenghang Zong", "Fuchou Tang"), df$name_ind),]$gender <- "male"
+```
+
+Finally, I created a plot to show the gender balance of confirmed speakers and individuals on the organizing committees across the six conferences. 
+
+```{r, fig.width=12}
+df %>% 
+  left_join(url_confs, by = "name_conf") %>%
+  group_by(name_long, gender) %>% 
+  summarize(total = n()) %>% 
+  ggplot(aes(x = name_long, y = total, fill = gender)) + 
+  geom_bar(stat="identity", position = "fill") +  coord_flip() + 
+  xlab("Conference") + 
+  ylab("Proportion") + 
+  ggtitle("Confirmed speakers and organizers at six single-cell conferences in 2020")
+```
+
+As you can see, there seems to be a difference in the (predicted) gender balance across the six conferences. 
+
+Anyways, I had fun exploring a bit of the landscape of the single-cell conferences coming up in 2020! Hopefully this was helpful for someone else too. :) 
+
+Happy holidays and Happy New Year! 
+
+

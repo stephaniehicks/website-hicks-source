@@ -13,8 +13,8 @@ title: "Talks and Other Events"
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
 - Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
-- Columbia (University) Data Science Summit. 2020 Jan 17. New York City, NY. USA.
-- More (single-cell) data, more (statistical) problems. Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
+- Panel at [Data Science for Public Health Summit](https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit). 2020 Jan 17. Columbia University. New York City, NY. USA.
+- [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1o5dCD3zYh6hOrbD6TxMeKVNV8oYw-SmH8MTKewGIhB4/edit?usp=sharing). Department of Embryology, Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
 
 ### 2019
 

@@ -4,16 +4,20 @@ title: "Talks and Other Events"
 
 ### 2020
 
+- [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA.  
+- [Women in Statistics and Data Science Conference](https://ww2.amstat.org/meetings/wsds/2020/). 2020 Oct 1-3. Pittsburg, PA. USA 
 - Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
-- [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA.
+- [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. 
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. 
 - [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2020/)
 (SDSS). 2020 Jun 3-6. Pittsburgh, PA. USA.
+- **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 May 27-30. Milan, Italy. 
+- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA.
+- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA.
+- National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. 
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
-- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Feb 27. Denver, CO. USA.
-- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Feb 26. Denver, CO. USA.
 - Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
-- Panel at [Data Science for Public Health Summit](https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit). 2020 Jan 17. Columbia University. New York City, NY. USA.
+- Panelist on Data Science Education at the [Data Science for Public Health Summit](https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit). 2020 Jan 17. Columbia Mailman School of Public Health. New York City, NY. USA.
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1o5dCD3zYh6hOrbD6TxMeKVNV8oYw-SmH8MTKewGIhB4/edit?usp=sharing). Department of Embryology, Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
 
 ### 2019
@@ -36,7 +40,7 @@ title: "Talks and Other Events"
 ### 2018 
 
 - [Orchestrating Single-Cell RNA-sequencing Analysis with Bioconductor](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor). 
-    - Keynote presentation at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
+    - **Keynote presentation** at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
     - Invited presentation at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
 - [Analyzing Genomics Data in R with Bioconductor](https://speakerdeck.com/stephaniehicks/analyzing-genomics-data-in-r-with-bioconductor) at DC R Conference. 2018 Nov 8. Washington D.C., USA.
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation).

@@ -4,6 +4,7 @@ title: "Talks and Other Events"
 
 ### 2020
 
+- [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. 
 - [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA.  
 - [Women in Statistics and Data Science Conference](https://ww2.amstat.org/meetings/wsds/2020/). 2020 Oct 1-3. Pittsburg, PA. USA 
 - Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
@@ -16,9 +17,11 @@ title: "Talks and Other Events"
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA.
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. 
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
-- Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
+- [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1ZSkeK_bnYdVbiqN8gt4gouFeXY91DyKSjI922y3GZFY/edit?usp=sharing). Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
 - Panelist on Data Science Education at the [Data Science for Public Health Summit](https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit). 2020 Jan 17. Columbia Mailman School of Public Health. New York City, NY. USA.
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1o5dCD3zYh6hOrbD6TxMeKVNV8oYw-SmH8MTKewGIhB4/edit?usp=sharing). Department of Embryology, Carnegie Institution for Science. 2020 Jan 6. Baltimore, MD. USA.
+
+
 
 ### 2019
 

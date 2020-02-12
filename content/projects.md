@@ -9,7 +9,8 @@ Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high
 
 1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2019). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
 
-2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2019). [12 Grand Challenges in Single-Cell Data Science](https://doi.org/10.7287/peerj.preprints.27885v1). Accepted in _Genome Biology_. 
+2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). [Eleven Grand Challenges in Single-Cell Data Science](https://doi.org/10.1186/s13059-020-1926-6). _Genome Biology_. 
+
 
 #### Spatial transcriptomics 
 

@@ -79,3 +79,4 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 2.	**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169). _Biostatistics_.
 3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
 4. 	**Hicks SC**, Irizarry RA (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
+5. Wang Y, Hicks SC, Hansen KD (2020). [Co-expression analysis is biased by a mean-correlation relationship](https://www.biorxiv.org/content/10.1101/2020.02.13.944777v1). _bioRxiv_

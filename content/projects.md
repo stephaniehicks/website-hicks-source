@@ -14,9 +14,11 @@ Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high
 
 #### Spatial transcriptomics 
 
+**[Join us](../join/index.html)** with an open postdoctoral position!
+
 The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
 
-**[Join us](../join/index.html)** with an open postdoctoral position!
+1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). _bioRxiv_. 
 
 
 #### Methods to address technical variablity

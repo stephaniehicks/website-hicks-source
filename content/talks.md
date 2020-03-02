@@ -15,7 +15,7 @@ title: "Talks and Other Events"
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA.
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. 
 - [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
-- [WiDS](https://docs.google.com/presentation/d/1q7Fpbxul0LD1Viq_aeYGvTxqbA46qdk5Ub_ZnVnsvKE/edit?usp=sharing). US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
+- WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
 - [Statistical Genetics and Genomics at Johns Hopkins Biostatistics](https://docs.google.com/presentation/d/1SKY8fEcWmpwaFQCfd2j-Kr7nH4BQ3-Rfhl2WgmPcI3I/edit?usp=sharing). Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. 2020 Feb 21. Baltimore, MD. USA.
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1ZSkeK_bnYdVbiqN8gt4gouFeXY91DyKSjI922y3GZFY/edit?usp=sharing). Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
 - Panelist on Data Science Education at the [Data Science for Public Health Summit](https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit). 2020 Jan 17. Columbia Mailman School of Public Health. New York City, NY. USA.

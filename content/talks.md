@@ -11,10 +11,10 @@ title: "Talks and Other Events"
 - [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. 
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. 
 - **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 May 27-30. Milan, Italy. 
-- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA.
-- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA.
-- National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. 
-- [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
+- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA. (Postponed to due COVID-19).
+- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA. (Postponed to due COVID-19).
+- National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
+- Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
 - WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
 - [Statistical Genetics and Genomics at Johns Hopkins Biostatistics](https://docs.google.com/presentation/d/1SKY8fEcWmpwaFQCfd2j-Kr7nH4BQ3-Rfhl2WgmPcI3I/edit?usp=sharing). Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. 2020 Feb 21. Baltimore, MD. USA.
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1ZSkeK_bnYdVbiqN8gt4gouFeXY91DyKSjI922y3GZFY/edit?usp=sharing). Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
@@ -46,6 +46,7 @@ title: "Talks and Other Events"
     - **Keynote presentation** at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
     - Invited presentation at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
 - [Analyzing Genomics Data in R with Bioconductor](https://speakerdeck.com/stephaniehicks/analyzing-genomics-data-in-r-with-bioconductor) at DC R Conference. 2018 Nov 8. Washington D.C., USA.
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/l1MQ7x8cn7Y" frameborder="0" allowfullscreen></iframe></p>
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation).
 Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2. Birmingham, AL. USA.
 - Estimating cell type composition in whole blood using differentially methylated regions at the [12th Annual Symposium and Poster Session on Genomics and Bioinformatics at Johns Hopkins University](http://genomics.jhu.edu/symposium.html). 2018 Oct 25. Baltimore, MD. USA.

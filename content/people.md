@@ -6,8 +6,10 @@ title: "People"
 
 | Name| Research topic | Photo |
 | :---- | :---- | :---- |
+| [Nathan Dyjack](https://scholar.google.com/citations?user=KXKrFoAAAAAJ) | Graduate student working on developing statistical methods to analyze spatial transcriptomics data. | | 
 | [Wenpin Hou](https://twitter.com/HWenpin) | Postdoc interested in imputation methods, gene regulatory networks inference, and data integration methods with time-varying effects at single-cell resolution (Joint postdoc with [Hongkai Ji](http://www.biostat.jhsph.edu/~hji/)). Previously a Postdoc with [Suchi Saria](https://suchisaria.jhu.edu) and [Aravinda Chakravarti](https://aravindachakravartilab.org) at Johns Hopkins University in Computer Science. | <img width="200" src="/./images/wenpin_hou.jpg"> |
-| [Lukas Weber](https://lmweber.github.io) | Postdoc working on data analysis, statistical methodology, software development, and benchmarking for single-cell data. Previously completed a PhD in Biostatistics at the University of Zurich, Switzerland with [Mark Robinson](https://robinsonlabuzh.github.io). | <img width="200" src="/./images/lukas_weber.jpg"> |
+| [Albert Kuo](https://albertkuo.me) | Graduate student working on developing statistical methods to analyze single nucleus RNA-sequencing data. | <img width="200" src="/./images/albert_kuo.png"> | 
+| [Lukas Weber](https://lmweber.github.io) | Postdoc working on data analysis, statistical methodology, software development, and benchmarking for single-cell and spatial transcriptomics data. Previously completed a PhD in Biostatistics at the University of Zurich, Switzerland with [Mark Robinson](https://robinsonlabuzh.github.io). | <img width="200" src="/./images/lukas_weber.jpg"> |
 |<img width=250/>|<img width=600/>|<img width=200/>|
 
 ## Friends of the Lab
@@ -16,7 +18,6 @@ title: "People"
 | :---- | :---- | 
 | Carrie Wright | Research Associate (Biostatistics Faculty) working on developing data science educational content for the [JHU Data Science Lab](https://jhudatascience.org) including [Open Case Studies](https://opencasestudies.github.io). |
 |<img width=250/>|<img width=600/>|
-
 
 
 ## Current Research Assistants 
@@ -28,7 +29,7 @@ title: "People"
 |<img width=250/>|<img width=600/>|
 
 
-## Past Research Assistants 
+### Past Research Assistants 
 
 - Ruoxi Liu
 - Alexandra Stephens

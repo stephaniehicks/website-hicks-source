@@ -6,15 +6,18 @@ title: "Talks and Other Events"
 
 - [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. 
 - [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA.  
-- [Women in Statistics and Data Science Conference](https://ww2.amstat.org/meetings/wsds/2020/). 2020 Oct 1-3. Pittsburg, PA. USA 
-- Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.
+- [Women in Statistics and Data Science Conference](https://ww2.amstat.org/meetings/wsds/2020/). 2020 Oct 1-3. Pittsburg, PA. USA. 
+- Communicating statistics to the masses via Massive Open Online Courses. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual).
 - [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. 
-- Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. 
-- **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 May 27-30. Milan, Italy. 
+- Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
+- **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual). Watch a pre-conference interview here: 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
+- Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19). Watch a pre-conference interview here: 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyX6c3kLDyM" frameborder="0" allowfullscreen></iframe></p>
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA. (Postponed to due COVID-19).
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA. (Postponed to due COVID-19).
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
-- Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA.
+- Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA. (Virtual)
 - WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
 - [Statistical Genetics and Genomics at Johns Hopkins Biostatistics](https://docs.google.com/presentation/d/1SKY8fEcWmpwaFQCfd2j-Kr7nH4BQ3-Rfhl2WgmPcI3I/edit?usp=sharing). Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. 2020 Feb 21. Baltimore, MD. USA.
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1ZSkeK_bnYdVbiqN8gt4gouFeXY91DyKSjI922y3GZFY/edit?usp=sharing). Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
@@ -32,7 +35,7 @@ title: "Talks and Other Events"
 - [Teaching data science through case studies in Public Health](https://speakerdeck.com/stephaniehicks/teaching-data-science-through-case-studies-in-public-health). Joint Statistical Meeings. 2019 Jul 27-Aug 1. Denver, CO. USA. 
 - [`mbkmeans`: fast clustering for single cell data using mini-batch _k_-means](https://docs.google.com/presentation/d/1AlwLGTlc3ZFxY8PLpCZ5cwD3ktQyQqb1V6qub2I8360/edit?usp=sharing). Bioconductor Conference. 2019 Jul 24-27. New York City, NY. USA.
 - [Why Statistics Matters: Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). [Practical Genomics Workshop](http://genomics.jhu.edu/workshop.html) at Johns Hopkins University. 2019 June 4-7. Baltimore, MD. USA.
-- [Useful Tools for Teaching And Outreach In Data Science](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science). Symposium on Data Science and Statistics. 2019 May 29-Jun 1. Bellevue, WA. USA.
+- [Useful Tools for Teaching And Outreach In Data Science](https://speakerdeck.com/stephaniehicks/useful-tools-for-teaching-and-outreach-in-data-science). Symposium on Data Science and Statistics (SDSS). 2019 May 29-Jun 1. Bellevue, WA. USA.
 - [Addressing Open Challenges Data Science Education](https://speakerdeck.com/stephaniehicks/addressing-open-challenges-in-data-science-education). Department of Statistics and Data Sciences, Smith College. 2019 Apr 18. Northampton, MA. USA.
 - Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments. ENAR Conference. 2019 Mar 24-27. Philadelphia, PA. USA.
 - [Making data science accessible world-wide in the Johns Hopkins Data Science Lab](https://speakerdeck.com/stephaniehicks/making-data-science-accessible-in-the-johns-hopkins-data-science-lab). Department of Statistics, University of Connecticut. 2019 Feb 27. Storrs, CT. USA.
@@ -79,7 +82,8 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 
 - On the widespread and critical impact of batch effects and systematic bias in single-cell RNA-Seq data (Selected for a Stellar Abstract Award). [PQG Conference: Single-cell Genomics: Technology, Analysis, and Applications](https://www.hsph.harvard.edu/2015-pqg-conference/). 2015 Nov 5-6. Boston, MA, USA.
 - [Mozilla Open Science Leadership Summit](https://www.mozillascience.org/open-science-summit-2015). Invited to work with community leaders furthering open practice and open science through creating community events, tools for collaboration and learning resources.
-- [Why Statistics Matters in the Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data) ([Youtube video](https://www.youtube.com/watch?v=3EVtJPz4kCI)). Presented at the LSU Computational Biology seminar and the LSUConnect event. 2015 Feb 11. Baton Rouge, LA, USA.
+- [Why Statistics Matters in the Analysis of Genomics Data](https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data). Presented at the LSU Computational Biology seminar and the LSUConnect event. 2015 Feb 11. Baton Rouge, LA, USA.
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3EVtJPz4kCI" frameborder="0" allowfullscreen></iframe></p>
 
 
 ### 2014 

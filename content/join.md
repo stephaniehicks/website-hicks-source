@@ -4,11 +4,6 @@ date: "2019-01-02"
 ---
 
 
-### Open positions
-
-[Postdoctoral Scientist position](https://docs.google.com/document/d/1B9nAjJx8pVzbVKXbmHrwM_3x20piGzISvplNrGCxFpE/edit?usp=sharing) to develop statistical methods for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. 
-
-
 ### For current students at Johns Hopkins
 
 If you are a current Hopkins student and are interested in working with me come by my office any time the door is open and I'll be happy to talk about open projects. I have many new projects that I would be excited to talk to you about. In the mean time, feel free to check out the [projects](../projects/index.html) page for a brief summary of what's going on in the lab! 

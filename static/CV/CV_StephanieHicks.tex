@@ -222,7 +222,8 @@ Nature Communications, Nature Methods, Nature Biotechnology,
 
 \mydot{-0.1em}
 
-\item Review proposals for \href{https://medium.com/@cziscience/the-invisible-foundations-of-biomedicine-4ab7f8d4f5dd}{Open Source Software Projects} from the Chan Zuckerberg Intiative (Oct 2019). 
+\item Review proposals for \href{https://medium.com/@cziscience/enabling-foundational-tools-for-scientific-discovery-5eb1f5747c35}{Open Source Software for Science} from the Chan Zuckerberg Intiative (May 2020).
+\item Review proposals for \href{https://medium.com/@cziscience/the-invisible-foundations-of-biomedicine-4ab7f8d4f5dd}{Open Source Software for Science} from the Chan Zuckerberg Intiative (Oct 2019). 
 \item Review statistical methods proposals for NSF panel (Apr 2019).
 
 \ee
@@ -271,10 +272,10 @@ Nature Communications, Nature Methods, Nature Biotechnology,
 
 \item 
 Lahnemann D, Koester J, Szczurek E, McCarthy D, {\bf Hicks S}, Robinson MD, Vallejos C, Beerenwinkel N, Campbell K, Mahfouz A, Pinello L, Skums P, Stamatakis A, Stephan-Otto Attolini C, Aparicio S, Baaijens J, Balvert M, de Barbanson B, Cappuccio A, Corleone G, Dutilh B, Florescu M, Guryev V, Holmer R, Jahn K, Lobo TJ, Keizer E, Khatri I, Kiełbasa S, Korbel J, Kozlov A, Kuo T-H, Lelieveldt B, Mandoiu I, Marioni J, Marschall T, Molder F, Niknejad A, Rączkowski L, Reinders M, de Ridder J, Saliba A-E, Somarakis A, Stegle O, Theis F, Yang H, Zelikovsky A, McHardy A, Raphael B, Shah S, Schonhuth S. (2020). Eleven Grand Challenges in Single-Cell Data Science. \dg{{\it Genome Biology}. {\bf 21}:31 doi: \url{https://doi.org/10.1186/s13059-020-1926-6}}.
+\mine
+Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, {\bf Hicks SC}. (2020). Orchestrating Single-Cell Analysis with Bioconductor. \dg{{\it Nature Methods}. \bf{17}(2):137-14. PMID: 31792435}.
 \item
 Townes FW, {\bf Hicks SC}, Ayree MJ Irizarry RA. (2019). Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model. \dg{{\it Genome Biology}. {\bf 20}:295 doi: \url{https://doi.org/10.1186/s13059-019-1861-6}}.
-\mine
-Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, {\bf Hicks SC}. (2019). Orchestrating Single-Cell Analysis with Bioconductor. \dg{{\it Nature Methods}. PMID: 31792435}.
 \mine
  {\bf Hicks SC}, Irizarry RA. (2019). methylCC: technology-independent estimation of cell type composition using differentially methylated regions. \dg{{\it Genome Biology}. {\bf 20}:261. PMID: 31783894. PMCID: PMC6883691}. 
 \mine
@@ -334,6 +335,8 @@ Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm
 
 \mycon{0.4em}
 
+\mine % May 27
+{\bf Hicks SC}, Liu R, Ni Y, Purdom E, Risso D (2020). mbkmeans: fast clustering for single cell data using mini-batch $k$-means. . \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.05.27.119438}}.
 \item % Feb 28 
 Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, {\bf Hicks SC}, Martinowich K, Jaffe AE (2020). Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. \dg{{\it bioRxiv}. doi:  \url{https://doi.org/10.1101/2020.02.28.969931}}.
 \item % Feb 13
@@ -363,7 +366,7 @@ Methodology and R/Bioconductor package to implement spatial quantile normalizati
 Methodology and R/Bioconductor software package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms [\href{http://bioconductor.org/packages/benchmarkfdrData2019}{Available on Bioconductor}]. The methodology and software was developed in collaboration with Rafael Irizarry at Dana-Farber Cancer Institute.
 \item
 {\bf mbkmeans} $\blacktriangleright$
-Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).
+Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). Published in \href{https://doi.org/10.1101/2020.05.27.119438}{Hicks et al. (2020)}. [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. 
 \item 
 {\bf qsmooth} $\blacktriangleright$
 Methodology and R/Bioconductor software package that implements a generalization of quantile normalization, referred to as smooth quantile normalization (\textbf{qsmooth}), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions [\href{http://bioconductor.org/packages/qsmooth}{Available on Bioconductor}]. 
@@ -672,6 +675,12 @@ Part II
 \mydot{0.3em}
 
 \item
+{\it Cellular Deconvolution of High Grade Serous Ovarian Cancers (Hopkins-Penn Ovarian Cancer SPORE DPR Award).}\\[0.0em]
+\dn{Dates:} 06/01/2020 –- 05/31/2021. 
+\dn{Principal Investigator:} Casey Greene, PhD.\\
+\dn{Responsibility:} Consultant.
+
+\item
 {\it Validation of peripheral CGRP signaling as a target for the treatment of pain in chronic pancreatitis (NIH/NIDD R01).}\\[0.0em]
 \dn{Dates:} 09/21/2019 –- 08/31/2023. 
 \dn{Principal Investigator:} Pankaj Jay Pasricha, MD. \\
@@ -742,7 +751,7 @@ Part II
 \mydot{-0.1em}
 
 \item Member, Committee for Emerging Opportunities for Department Retreat (2018).
-\item Member, Faculty search committee (2019).
+\item Member, Faculty search committee (2019--2020).
 
 \ee
 
@@ -770,7 +779,7 @@ Part II
 
 \myben{0.3em}
 \item \href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{{\it Biological Data Science}}. 2020 Nov 4-7. Cold Spring Harbor Laboratory, NY. USA. 
-\item {\it Communicating statistics to the masses via Massive Open Online Courses}. \\
+\item {\it Communicating statistics and data science to the masses via Open Case Studies}. \\
 \href{https://ww2.amstat.org/meetings/jsm/2020/}{{\it Joint Statistical Meetings}}. 2020 Aug 1-6. Philadelphia, PA. USA. (Virtual due to COVID-19).
 \item {\it Analyzing Genomics Data in R with Bioconductor}. \\ 
 \href{https://www.meetup.com/rladies-riverside/}{R-Ladies Riverside}. 2020 Jul 22. (Virtual). 
@@ -831,7 +840,11 @@ Bioinformatics Meeting, Division of Immunology, Harvard Medical School. 2014 Sep
 
 \subsection*{Scientific Meetings (Contributed)}
 
-{\it Bench pressing single-cell RNA-sequencing imputation methods }. \\
+\item 
+{\it Panelist on 'Florence Nightingale 200th Anniversary'}. \\
+\href{https://ww2.amstat.org/meetings/jsm/2020/}{{\it Joint Statistical Meetings}}. 2020 Aug 1-6. Philadelphia, PA. USA. (Virtual due to COVID-19).
+\item 
+{\it Bench pressing single-cell RNA-sequencing imputation methods}. \\
 \href{http://bioc2020.bioconductor.org}{{\it Bioconductor Conference}}. 2020 Jul 29-31. Boston, MA, USA. (Virtual due to COVID-19).
 \item 
 {\it Fast clustering for single-cell RNA-seq data using mini-batch k-means}.\\

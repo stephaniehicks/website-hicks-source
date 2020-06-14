@@ -3,6 +3,7 @@ title: "Projects"
 date: "2019-01-02"
 ---
 
+
 ### Analysis of genomic data from single cells
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges (1, 2). 
@@ -10,13 +11,6 @@ Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high
 1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
 
 2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). [Eleven Grand Challenges in Single-Cell Data Science](https://doi.org/10.1186/s13059-020-1926-6). _Genome Biology_. 
-
-
-#### Spatial transcriptomics 
-
-The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
-
-1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). _bioRxiv_. 
 
 
 #### Methods to address technical variablity
@@ -48,6 +42,14 @@ The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://w
 The goal of this project is to study the steady-state and transcriptomic changes from stimuli and perturbations of neurons and surrounding cells in enteric nervous system (ENS) in the gastrointestinal tract (gut) using bulk and single-cell gene expression data. For example, one project investigates the remodeling and cellular changes in the gastrointestinal tract from inflammation. The ENS contains the largest collection of neurons in the body outside of the brain that regulate diverse gastrointestinal and  metabolic functions and is commonly referred to as our "second brain". A better understanding of the gut is highly relevant to public health because alterations and inflammation in the gut have been linked to diseases such as Parkinson's, colitis, irritable bowel syndrome, anxiety and mood disorders, with limited treatment options. The long-term impact of this project will be a key step towards developing targeted treatments for curbing inflammation and associated pathological changes in the gut.
 
 --- 
+
+### Analysis of genomic data with spatial resolution
+
+The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
+
+1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). _bioRxiv_. 
+
+---
 
 ### Data Science Education
 

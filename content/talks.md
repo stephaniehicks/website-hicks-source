@@ -6,12 +6,14 @@ title: "Talks and Other Events"
 
 - [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. 
 - [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA.  
-- Panelist on 'Celebrating Florence Nightingale’s Bicentenary'. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
+- [Academic Data Science Alliance (ADSA) Annual Meeting](https://academicdatascience.org/adsa-meetings/annual-meeting). 2020 Oct 14-16. (Virtual due to COVID-19).
+- Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).
 - Communicating statistics and data science to the masses via Open Case Studies. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
-- [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
+- Bench pressing single-cell RNA-sequencing imputation methods. [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
 - Analyzing Genomics Data in R with Bioconductor. [R-Ladies Riverside](https://www.meetup.com/rladies-riverside/). 2020 Jul 22. (Virtual due to COVID-19).
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
-- **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). Watch a pre-conference interview here: 
+- [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](http://www.birs.ca/events/2020/5-day-workshops/20w5197) at Banff International Research Station. 2020 Jun 14-19. (Virtual due to COVID-19). 
+- [Using R and data science to improve human health](https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing). **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). Watch a pre-conference interview here: 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
 - Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19). Watch a pre-conference interview here: 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyX6c3kLDyM" frameborder="0" allowfullscreen></iframe></p>
@@ -48,7 +50,7 @@ title: "Talks and Other Events"
 
 - [Orchestrating Single-Cell RNA-sequencing Analysis with Bioconductor](https://speakerdeck.com/stephaniehicks/orchestrating-single-cell-rna-sequencing-analysis-with-bioconductor). 
     - **Keynote presentation** at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
-    - Invited presentation at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
+    - **Keynote presentation** at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
 - [Analyzing Genomics Data in R with Bioconductor](https://speakerdeck.com/stephaniehicks/analyzing-genomics-data-in-r-with-bioconductor) at DC R Conference. 2018 Nov 8. Washington D.C., USA.
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/l1MQ7x8cn7Y" frameborder="0" allowfullscreen></iframe></p>
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation).

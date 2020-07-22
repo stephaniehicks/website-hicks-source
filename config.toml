@@ -16,6 +16,9 @@ codefolding_nobutton = false
 
 custom_css = ["codefolding.css"]
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 

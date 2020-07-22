@@ -10,14 +10,21 @@ title: "Talks and Other Events"
 - Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).
 - Communicating statistics and data science to the masses via Open Case Studies. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
 - Bench pressing single-cell RNA-sequencing imputation methods. [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
-- Analyzing Genomics Data in R with Bioconductor. [R-Ladies Riverside](https://www.meetup.com/rladies-riverside/). 2020 Jul 22.
-- [Addressing Real-World Challenges through Data Science Education](https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing). Academic Data Science Alliance (ADSA) Data Science Education special interest group (SIG). 2020 Jul 2. 
+- [Analyzing Genomics Data in R with Bioconductor](https://docs.google.com/presentation/d/1Qq52SMfRkP_MsvhxqjvJXa-33LXVSmA5ovmnlsyx1iQ/edit?usp=sharing). [R-Ladies Riverside](https://www.meetup.com/rladies-riverside/). 2020 Jul 22.
+- [Addressing Real-World Challenges through Data Science Education](https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing). Academic Data Science Alliance (ADSA) Data Science Education special interest group (SIG). 2020 Jul 2.  
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PRSpf1sJsNw" frameborder="0" allowfullscreen></iframe></p>
+
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](http://www.birs.ca/events/2020/5-day-workshops/20w5197) at Banff International Research Station. 2020 Jun 14-19. (Virtual due to COVID-19). 
 - [Using R and data science to improve human health](https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing). **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). Watch a pre-conference interview here: 
+
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
+
 - Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19). Watch a pre-conference interview here: 
+
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyX6c3kLDyM" frameborder="0" allowfullscreen></iframe></p>
+
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA. (Postponed to due COVID-19).
 - Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA. (Postponed to due COVID-19).
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
@@ -53,7 +60,9 @@ title: "Talks and Other Events"
     - **Keynote presentation** at [Bioconductor Asia](https://bioconductor.github.io/BiocAsia/) on 2018 Nov 29 at the University of Melbourne, Melbourne, Australia. 
     - **Keynote presentation** at [Australian Mathematical Sciences Institute (AMSI) Bioinfosummer](https://bis.amsi.org.au) on 2018 Dec 3-7 at the University of Western Australia, Perth, Australia.
 - [Analyzing Genomics Data in R with Bioconductor](https://speakerdeck.com/stephaniehicks/analyzing-genomics-data-in-r-with-bioconductor) at DC R Conference. 2018 Nov 8. Washington D.C., USA.
+
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/l1MQ7x8cn7Y" frameborder="0" allowfullscreen></iframe></p>
+
 - [Estimating cell type composition in whole blood using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation).
 Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2. Birmingham, AL. USA.
 - Estimating cell type composition in whole blood using differentially methylated regions at the [12th Annual Symposium and Poster Session on Genomics and Bioinformatics at Johns Hopkins University](http://genomics.jhu.edu/symposium.html). 2018 Oct 25. Baltimore, MD. USA.
@@ -61,7 +70,7 @@ Department of Biostatistics, The University of Alabama at Birmingham. 2018 Nov 2
 - [Data Science Innovation Lab: Mathematical Challenges of Single Cell Dynamics](https://bigdatau.ini.usc.edu/innovationlab2018). Invited to participate in a five-day workshop with early-career biomedical and quantitative investigators to create collaborations, answering important questions in single cell data.
 - [Open challenges in Single-Cell RNA-Sequencing](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111). Joint Statistical Meetings. 2018 Jul 29-Aug 2. Vancouver, CA.
 - Open Challenges in Single-Cell RNA-Sequencing. [Single Cell Data Science: Making Sense of Data from Billions of Single Cells](http://lorentzcenter.nl/lc/web/2018/986/info.php3?wsid=986&venue=Oort). 2018 Jun 4-8. Lorentz Center, Leiden University, Netherlands.
-* - [Technology-independent estimation of cell type composition using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
+- [Technology-independent estimation of cell type composition using differentially methylated regions](https://speakerdeck.com/stephaniehicks/methylcc-presentation). Office of Biostatistics Research at NHLBI/NIH. 2018 Apr 24. Bethesda, MD. USA.
 
 
 ### 2017

@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "yo"
 ---
+
 
 <div>
     <img style="float: left; margin:0px 20px" src="/./images/Hicks_small.jpg" width="270" height="340" />

@@ -55,12 +55,13 @@ The goal of this project is to develop statistical methods and open-source softw
 
 An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data (1, 2). To address this, I am building the [Open Case Studies](https://opencasestudies.github.io) (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. 
 
-In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses (4) based on objective characteristics, and it provides a framework to teach students how to build data analyses. 
+In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses (4) based on objective characteristics, and it provides a framework to teach students how to build data analyses with an emphasis on reproducible data analyses (5). 
 
 1. **Hicks SC**, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
 2. **Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
 3. **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
 4. **Hicks SC**, Peng RD. (2019). [Evaluating the Success of a Data Analysis](https://arxiv.org/abs/1904.11907). _arXiv_.
+5.  Peng RD, **Hicks SC**. (2020). [Reproducible Research: A Retrospective](https://arxiv.org/abs/2007.12210). _arXiv_.
 
 --- 
 

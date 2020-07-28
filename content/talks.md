@@ -9,7 +9,7 @@ title: "Talks and Other Events"
 - [Academic Data Science Alliance (ADSA) Annual Meeting](https://academicdatascience.org/adsa-meetings/annual-meeting). 2020 Oct 14-16. (Virtual due to COVID-19).
 - Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).
 - Communicating statistics and data science to the masses via Open Case Studies. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
-- Bench pressing single-cell RNA-sequencing imputation methods. [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
+- [Bench pressing single-cell RNA-sequencing imputation methods](https://docs.google.com/presentation/d/1eD2jz20aDKo-hKFkbp7BRpqt-2d7cqt9Ff_todrL0Zo/edit?usp=sharing). [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
 - [Analyzing Genomics Data in R with Bioconductor](https://docs.google.com/presentation/d/1Qq52SMfRkP_MsvhxqjvJXa-33LXVSmA5ovmnlsyx1iQ/edit?usp=sharing). [R-Ladies Riverside](https://www.meetup.com/rladies-riverside/). 2020 Jul 22.
 - [Addressing Real-World Challenges through Data Science Education](https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing). Academic Data Science Alliance (ADSA) Data Science Education special interest group (SIG). 2020 Jul 2.  
 

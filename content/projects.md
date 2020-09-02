@@ -10,7 +10,7 @@ Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high
 
 1. Amezquita RA, Lun ATL, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pages H, Smith M, Huber W, Morgan M, Gottardo R, **Hicks SC**. (2020). [Orchestrating Single-Cell Analysis with Bioconductor](https://doi.org/10.1038/s41592-019-0654-x). _Nature Methods_.
 
-2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). [Eleven Grand Challenges in Single-Cell Data Science](https://doi.org/10.1186/s13059-020-1926-6). _Genome Biology_. 
+2. Lähnemann D, Koester J, Szczurek E, McCarthy D, **Hicks S**, Robinson MD, Vallejos C, Beerenwinkel N, et al. (2020). [Eleven grand challenges in single-cell data science](https://doi.org/10.1186/s13059-020-1926-6). _Genome Biology_. 
 
 
 #### Methods to address technical variablity
@@ -19,7 +19,7 @@ In contrast to bulk RNA-seq experiments, the majority of reported expression lev
 
 1.	**Hicks SC**, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
 2.	Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1186/s13059-019-1861-6). _Genome Biology_. 
-3. Hou W, Ji J, Ji H, **Hicks SC** (2020). [A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods](https://www.biorxiv.org/content/10.1101/2020.01.29.925974v1). _bioRxiv_.
+3. Hou W, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
 
 
 #### Fast, scalable, memory-efficient methods to analyze single-cell data

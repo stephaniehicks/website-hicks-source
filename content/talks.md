@@ -4,9 +4,11 @@ title: "Talks and Other Events"
 
 ### 2020
 
-- [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. (Virtual due to COVID-19).
+- Scaling up single-cell data analyses in Bioconductor. [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. (Virtual due to COVID-19).
+- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
 - [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA. (Virtual due to COVID-19).
 - [Academic Data Science Alliance (ADSA) Annual Meeting](https://academicdatascience.org/adsa-meetings/annual-meeting). 2020 Oct 14-16. (Virtual due to COVID-19).
+- Setting the Stage for Reproducibility in Single-Cell Data Science. Rigor and Reproducibilty in Cancer Research. Rogel Cancer Center. University of Michigan. 2020 Sept 24. Ann Arbor, MI, USA. (Virtual). 
 - Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).
 - [Communicating statistics and data science to the masses via Open Case Studies](https://docs.google.com/presentation/d/1wSuRsSwI-uEyiPqtXEW12CBwr5qULK6zO7aPHsUH8T8/edit?usp=sharing). [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
 - [Bench pressing single-cell RNA-sequencing imputation methods](https://docs.google.com/presentation/d/1eD2jz20aDKo-hKFkbp7BRpqt-2d7cqt9Ff_todrL0Zo/edit?usp=sharing). [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
@@ -25,8 +27,6 @@ title: "Talks and Other Events"
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyX6c3kLDyM" frameborder="0" allowfullscreen></iframe></p>
 
-- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Apr 16. Denver, CO. USA. (Postponed to due COVID-19).
-- Department of Biostatistics and Informatics, Colorado School of Public Health. 2020 Apr 15. Denver, CO. USA. (Postponed to due COVID-19).
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
 - Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA. (Virtual)
 - WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.

@@ -5,7 +5,7 @@ date: "2018-08-24"
 
 <center><font color="#4B0082"><font style="font-size:6vw"><font face='Great Vibes'>Stephanie C. Hicks</font></font></font></center>
 
-I am an Assistant Professor in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu). I'm also a faculty member of the [Johns Hopkins Data Science Lab](http://jhudatascience.org) and co-founder of [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/). 
+I am an Assistant Professor in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu) and a Preceptor in the [Department of Biochemistry and Molecular Biology](http://www.jhu-bmb-phd.org/faculty/stephanie-hicks) PhD program. I'm also a faculty member of the [Johns Hopkins Data Science Lab](http://jhudatascience.org) and co-founder of [R-Ladies Baltimore](https://www.meetup.com/rladies-baltimore/). 
 
 I received my B.S. in [Mathematics](https://www.math.lsu.edu) from [LSU](https://www.lsu.edu) and my M.A. and Ph.D. from the [Department of Statistics](http://statistics.rice.edu) at [Rice University](http://www.rice.edu) under the direction of [Marek Kimmel](https://statistics.rice.edu/people/marek-kimmel) and [Sharon Plon](https://www.bcm.edu/people-search/sharon-plon-28865) ([@splon](https://twitter.com/splon)). 
 

@@ -4,10 +4,11 @@ title: "Talks and Other Events"
 
 ### 2020
 
+- Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. Spring 2021. Vancouver, BC. Canada. (Virtual).
 - Scaling up single-cell data analyses in Bioconductor. [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. (Virtual due to COVID-19).
 - Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
-- [Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) Foundations of Data Science Conference](https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf). 2020 Oct 18-20. Seattle, WA. USA. (Virtual due to COVID-19).
 - [Academic Data Science Alliance (ADSA) Annual Meeting](https://academicdatascience.org/adsa-meetings/annual-meeting). 2020 Oct 14-16. (Virtual due to COVID-19).
+- [Introduction to GenomicRanges and plyranges](https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing). [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/events/273485109/). 2020 Oct 6. (Virtual).
 - [Setting the Stage for Reproducibility in Single-Cell Data Science](https://docs.google.com/presentation/d/1gouLBEOSgtWdnLSjkn1K8H8dWrfJZdwIqXJtAvU1KJg/edit?usp=sharing). Rigor and Reproducibilty in Cancer Research. Rogel Cancer Center. University of Michigan. 2020 Sept 24. Ann Arbor, MI, USA. (Virtual). 
 - [Addressing Public Health Challenges with Statistics, Genomics and Data Science](https://docs.google.com/presentation/d/12JA73ApG0MWTPmb1e37RMOjS3oiA93cR41Sp6_LexFI/edit?usp=sharing). Annual presentation on my research interests in "Current Topics" courses as part of my participation as a Preceptor in the Department of Biochemistry and Molecular Biology's NCI-supported PhD training program. 
 - Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).

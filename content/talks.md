@@ -2,13 +2,22 @@
 title: "Talks and Other Events"
 ---
 
+### 2021
+
+- Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on "Theoretical and Empirical Contributions to Data Analytic Practice". [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/). 2021 Aug 7-12. Seattle, WA. USA. 
+- Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2020 Jul 15. Bar Harbor, ME. USA. 
+- Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. Spring 2021. Vancouver, BC. Canada. (Virtual).
+
 ### 2020
 
-- Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. Spring 2021. Vancouver, BC. Canada. (Virtual).
-- Scaling up single-cell data analyses in Bioconductor. [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. (Virtual due to COVID-19).
-- Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
-- [Academic Data Science Alliance (ADSA) Annual Meeting](https://academicdatascience.org/adsa-meetings/annual-meeting). 2020 Oct 14-16. (Virtual due to COVID-19).
+- CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual).
+- CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
+- Scaling up single-cell data analyses in Bioconductor. [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. USA. (Virtual due to COVID-19).
+- [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing). Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
 - [Introduction to GenomicRanges and plyranges](https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing). [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/events/273485109/). 2020 Oct 6. (Virtual).
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TaEsonYBGlE" frameborder="0" allowfullscreen></iframe></p>
+
 - [Setting the Stage for Reproducibility in Single-Cell Data Science](https://docs.google.com/presentation/d/1gouLBEOSgtWdnLSjkn1K8H8dWrfJZdwIqXJtAvU1KJg/edit?usp=sharing). Rigor and Reproducibilty in Cancer Research. Rogel Cancer Center. University of Michigan. 2020 Sept 24. Ann Arbor, MI, USA. (Virtual). 
 - [Addressing Public Health Challenges with Statistics, Genomics and Data Science](https://docs.google.com/presentation/d/12JA73ApG0MWTPmb1e37RMOjS3oiA93cR41Sp6_LexFI/edit?usp=sharing). Annual presentation on my research interests in "Current Topics" courses as part of my participation as a Preceptor in the Department of Biochemistry and Molecular Biology's NCI-supported PhD training program. 
 - Panelist on _Celebrating Florence Nightingale’s Bicentenary_. [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA. (Virtual due to COVID-19).
@@ -21,7 +30,11 @@ title: "Talks and Other Events"
 
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](http://www.birs.ca/events/2020/5-day-workshops/20w5197) at Banff International Research Station. 2020 Jun 14-19. (Virtual due to COVID-19). 
-- [Using R and data science to improve human health](https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing). **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). Watch a pre-conference interview here: 
+- [Using R and data science to improve human health](https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing). **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). 
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YqLb6gCyUGw" frameborder="0" allowfullscreen></iframe></p>
+
+Watch a pre-conference interview here: 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
 

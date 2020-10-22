@@ -28,13 +28,17 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 
 1. **Hicks SC**, Liu R, Ni Y, Purdom E, Risso D (2020). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1101/2020.05.27.119438). _bioRxiv_.
 
+
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
 
-The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. 
+The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Most recently, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1). 
 
-#### Practical and reproducible workflows for single-cell and single-nucleus analysis of childhood cancer data
 
-The goal of this project, funded by [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org), is to design and build practical, reproducible, statistically-rigorous workflows for the analysis of single-cell and and single-nucleus childhood cancer data. Most importantly, this will alllow researchers studying childhood cancers use the same or similar workflows to analyze their own data, which will help scientists in the field compare and contrast across studies. For more information, see the [highlight](https://www.alexslemonade.org/project/practical-reproducible-and-statistically-rigorous-workflows-single-nucleus-analysis) on the Alex's Lemonade Stand Foundation website. 
+#### Single-nucleus profiling 
+
+Single-nucleus RNA-sequencing (snRNA-seq) has become the preferred experimental technology, compared to scRNA-seq, to profile gene expression in frozen cells or cells that are hard to dissociate, such as brain tissue. Previous studies have shown that snRNA-seq offers substantial advantages over scRNA-seq, including reduced dissociation bias and the ability to capture rare cell types in these tissues (1). 
+
+1. Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, **Hicks SC**, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). [Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain](https://doi.org/10.1101/2020.10.07.329839). _bioRxiv_.
 
 
 #### Development and neurogenesis of the enteric nervous system with single-cell profiling
@@ -47,7 +51,7 @@ The goal of this project is to study the steady-state and transcriptomic changes
 
 The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
 
-1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). _bioRxiv_. 
+1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). Accepted in _Nature Neuroscience_. 
 
 ---
 

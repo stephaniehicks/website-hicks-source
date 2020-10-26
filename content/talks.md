@@ -10,7 +10,7 @@ title: "Talks and Other Events"
 
 ### 2020
 
-- CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual).
+- CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual). 
 - CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
 - Scaling up single-cell data analyses in Bioconductor. [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. USA. (Virtual due to COVID-19).
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing). Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).

@@ -3,7 +3,6 @@ title: "Projects"
 date: "2019-01-02"
 ---
 
-
 ### Analysis of genomic data from single cells
 
 Single-cell RNA-Sequencing (scRNA-seq) data has become the most widely used high-throughput method for transcription profiling of individual cells. This technology has created an unprecedented opportunity to investigate important biological questions that can only be answered at the single-cell level. However, this technology also brings new statistical, computational and methodological challenges (1, 2). 
@@ -32,7 +31,6 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
 
 The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Most recently, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1). 
-
 
 #### Single-nucleus profiling 
 

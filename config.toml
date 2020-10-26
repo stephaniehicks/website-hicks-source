@@ -1,11 +1,12 @@
 baseurl = "http://www.stephaniehicks.com"
+relativeurls = true
 languageCode = "en-us"
 title = "Stephanie Hicks"
 theme = "hugo-lithium"
 enableEmoji = true
 googleAnalytics = "UA-131643067-1"
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$", "_cache$", "README.md"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$",  "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "README.md"]
 
 # Set to true to disable code folding
 disable_codefolding = false

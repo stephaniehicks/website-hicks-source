@@ -18,7 +18,7 @@ In contrast to bulk RNA-seq experiments, the majority of reported expression lev
 
 1.	**Hicks SC**, Townes FW, Teng M, Irizarry RA (2018). [Missing data and technical variability in single-cell RNA-sequencing experiments](https://academic.oup.com/biostatistics/article/19/4/562/4599254). _Biostatistics_. 
 2.	Townes FW, **Hicks SC**, Aryee MJ, Irizarry RA (2019). [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://doi.org/10.1186/s13059-019-1861-6). _Genome Biology_. 
-3. Hou W, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
+3. **Hou W**, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
 
 
 #### Fast, scalable, memory-efficient methods to analyze single-cell data
@@ -31,6 +31,8 @@ The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
 
 The goal of this project is to identify the biological basis of subtypes of high-grade serous ovarian cancers (HGSOC) using bulk and single-cell gene expression data. This is highly relevant to public health because HGSOC is a particularly deadly cancer that is often only identified at late stage and treatment options are limited. The long-term impact of this project will be a key step towards developing targeted treatments for HGSOCs. Most recently, we demonstrated that genetic demultiplexing from single-cell cancer samples can be used for better experimental design and increase cost savings (1). 
+
+1. **Weber LM**, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, **Hicks SC**. (2020). [Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design](https://doi.org/10.1101/2020.11.06.371963). _bioRxiv_.
 
 #### Single-nucleus profiling 
 

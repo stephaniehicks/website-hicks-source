@@ -11,8 +11,8 @@ title: "Talks and Other Events"
 ### 2020
 
 - CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual). 
-- CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
-- Scaling up single-cell data analyses in Bioconductor. [Oz Single Cell](https://www.singlecells.org.au/webinar-episodes). 2020 Nov 18. Melbourne, Australia. (Virtual)
+- [Large-scale clustering in Bioconductor](https://www.stephaniehicks.com/biocdemo/). CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
+- [Scaling up single-cell data analyses in Bioconductor](https://docs.google.com/presentation/d/1PFx_wn4322FuDWzA14jPGZ786FH0jDsqe1NabcfjS6E/edit?usp=sharing). [Oz Single Cell](https://www.singlecells.org.au/webinar-episodes). 2020 Nov 18. Melbourne, Australia. (Virtual).
 - [Scaling up single-cell data analyses in Bioconductor](https://docs.google.com/presentation/d/1rHnFEjBUt9kqWfVfD5X8dOXSFUp3pFmWZoKCni3GATo/edit?usp=sharing). [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. USA. (Virtual).
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing). Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
 - [Introduction to GenomicRanges and plyranges](https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing). [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/events/273485109/). 2020 Oct 6. (Virtual).

@@ -1,9 +1,46 @@
 ---
-title: "Teaching"
+title: "Books, educational resources, and teaching"
 date: "2018-10-18"
 ---
 
+# Books
 
+
+### Genomics 
+
+- [Orchestrating Single-Cell Analysis in Bioconductor](http://bioconductor.org/books/release/OSCA/). Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. Online companion for a [manuscript published](https://doi.org/10.1038/s41592-019-0654-x) in _Nature Methods_.
+  - Authors: Robert Amezquita, Aaron Lun, Stephanie C. Hicks, Raphael Gottardo
+
+
+### Data Science 
+
+- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/). Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for a set of five courses on Coursera.
+  - Authors: Shannon C. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks
+
+--- 
+
+
+# Open Case Studies
+
+The [Open Case Studies](https://www.opencasestudies.org) (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. 
+
+- Exploring global patterns of obesity across rural and urban regions [[HTML](https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity)] [[GitHub](https://github.com/opencasestudies/ocs-bp-rural-and-urban-obesity)]
+- Exploring global patterns of dietary behaviors associated with health risk [[HTML](https://www.opencasestudies.org/ocs-bp-diet)] [[GitHub](https://github.com/opencasestudies/)]
+- Exploring CO2 emissions across time [[HTML](https://www.opencasestudies.org/ocs-bp-co2-emissions)] [[GitHub](https://github.com/opencasestudies/ocs-bp-co2-emissions)]
+- Opioids in United States [[HTML](https://www.opencasestudies.org/ocs-bp-opioid-rural-urban)] [[GitHub](https://github.com/opencasestudies/ocs-bp-opioid-rural-urban)]
+- Vaping Behaviors in American Youth [[HTML](https://www.opencasestudies.org/ocs-bp-vaping-case-study)] [[GitHub](https://github.com/opencasestudies/ocs-bp-vaping-case-study)]
+- Predicting Annual Air Pollution [[HTML](https://www.opencasestudies.org/ocs-bp-air-pollution)] [[GitHub](https://github.com/opencasestudies/ocs-bp-air-pollution)]
+- Influence of Multicollinearity on Measured Impact of Right-to-Carry Gun Laws [[HTML](https://www.opencasestudies.org/ocs-bp-RTC-analysis)] [[GitHub](https://github.com/opencasestudies/ocs-bp-RTC-analysis)]
+- Mental Health of American Youth [[HTML](https://www.opencasestudies.org/ocs-bp-youth-mental-health)] [[GitHub](https://github.com/opencasestudies/ocs-bp-youth-mental-health)]
+- Disparities in Youth Disconnection [[HTML](https://www.opencasestudies.org/ocs-bp-youth-disconnection)] [[GitHub](https://github.com/opencasestudies/ocs-bp-youth-disconnection)]
+- School Shootings in the United States [[HTML](https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard)] [[dashboard](https://rsconnect.biostat.jhsph.edu/ocs-bp-school-shootings-dashboard)] [[GitHub](https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard)]
+- Firearm Legislation and Fatal Police Shootings in the United States [[HTML](https://www.opencasestudies.org/ocs-police-shootings-firearm-legislation)] [[GitHub](https://github.com/opencasestudies/ocs-police-shootings-firearm-legislation)]  [![DOI](https://zenodo.org/badge/151612152.svg)](https://zenodo.org/badge/latestdoi/151612152) 
+- Exploring Health Expenditure using State-level data in the United States [[HTML](https://www.opencasestudies.org/ocs-healthexpenditure)] [[GitHub](https://github.com/opencasestudies/ocs-healthexpenditure)] [![DOI](https://zenodo.org/badge/151142096.svg)](https://zenodo.org/badge/latestdoi/151142096)
+
+
+---
+
+# Teaching experience
 
 ### Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
 

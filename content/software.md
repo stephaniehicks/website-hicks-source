@@ -3,15 +3,9 @@ title: "Software and data packages"
 date: "2019-01-02"
 ---
 
-## [Open Case Studies](https://opencasestudies.github.io) data analyses
-
-- [opencasestudies/ocs-police-shootings-firearm-legislation](https://github.com/opencasestudies/ocs-police-shootings-firearm-legislation): Firearm Legislation and Fatal Police Shootings in the United States. [![DOI](https://zenodo.org/badge/151612152.svg)](https://zenodo.org/badge/latestdoi/151612152) [![Build Status](https://travis-ci.org/opencasestudies/ocs-twitter-vaccination-text-mining.svg?branch=master)](https://travis-ci.org/opencasestudies/ocs-twitter-vaccination-text-mining)
-- [opencasestudies/ocs-healthexpenditure](https://github.com/opencasestudies/ocs-healthexpenditure): Exploring Health Expenditure using State-level data in the United States. [![DOI](https://zenodo.org/badge/151142096.svg)](https://zenodo.org/badge/latestdoi/151142096) [![Travis-CI Build
-Status](https://travis-ci.com/muschellij2/ocs-healthexpenditure.svg?branch=master)](https://travis-ci.com/muschellij2/ocs-healthexpenditure)
-
 ## Bioconductor 
 
-#### Software 
+#### Software packages
 
 - [R/scry](https://bioconductor.org/packages/scry) <img src="https://bioconductor.org/shields/years-in-bioc/scry.svg">: R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. This package builds around the [glmpca R CRAN package](https://cran.r-project.org/web/packages/glmpca/index.html). ([Townes et al., 2019. _Genome Biology_](https://doi.org/10.1186/s13059-019-1861-6)). 
 - [R/spQN](http://bioconductor.org/packages/spqn) <img src="https://bioconductor.org/shields/years-in-bioc/spqn.svg">: R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. ([Wang et al., 2020. _bioRxiv_](https://doi.org/10.1101/2020.02.13.944777)).
@@ -29,14 +23,14 @@ Status](https://travis-ci.com/muschellij2/ocs-healthexpenditure.svg?branch=maste
 
 ## CRAN 
 
-#### Software 
+#### Software packages
 
 - [R/glmpca](https://cran.r-project.org/web/packages/glmpca/index.html): Implements a generalized version of principal components analysis (GLM-PCA) for dimension reduction of non-normally distributed data such as counts or binary matrices. ([Townes et al., 2019. _Genome Biology_](https://doi.org/10.1186/s13059-019-1861-6)).
 
 
 ## GitHub
 
-#### Software 
+#### Software packages
 
 - [R/quantroSim](https://github.com/stephaniehicks/quantroSim): Supporting data simulation R-package for the *quantro* R-package to simulate gene expression and DNA methylation data.
 - [R/explainr](https://github.com/hilaryparker/explainr): translates S3 objects into text using standard templates in a simple and convenient way. 

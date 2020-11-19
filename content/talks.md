@@ -6,6 +6,7 @@ title: "Talks and Other Events"
 
 - Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on "Theoretical and Empirical Contributions to Data Analytic Practice". [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/). 2021 Aug 7-12. Seattle, WA. USA. 
 - Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. 
+- More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
 
 ### 2020

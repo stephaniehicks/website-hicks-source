@@ -5,7 +5,8 @@ title: "Talks and Other Events"
 ### 2021
 
 - Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on "Theoretical and Empirical Contributions to Data Analytic Practice". [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/). 2021 Aug 7-12. Seattle, WA. USA. 
-- Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. 
+- Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA.
+- Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual).
 - More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
 
@@ -14,9 +15,12 @@ title: "Talks and Other Events"
 - CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual). 
 - [Large-scale clustering in Bioconductor](https://www.stephaniehicks.com/biocdemo/). CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
 - [Scaling up single-cell data analyses in Bioconductor](https://docs.google.com/presentation/d/1PFx_wn4322FuDWzA14jPGZ786FH0jDsqe1NabcfjS6E/edit?usp=sharing). [Oz Single Cell](https://www.singlecells.org.au/webinar-episodes). 2020 Nov 18. Melbourne, Australia. (Virtual).
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/poEDERGXrQw" frameborder="0" allowfullscreen></iframe></p>
+
 - [Scaling up single-cell data analyses in Bioconductor](https://docs.google.com/presentation/d/1rHnFEjBUt9kqWfVfD5X8dOXSFUp3pFmWZoKCni3GATo/edit?usp=sharing). [Biological Data Science](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20). 2020 Nov 4-7. Cold Spring Harbor Laboratory. USA. (Virtual).
 - [More (single-cell) data, more (statistical) problems](https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing). Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
-- [Introduction to GenomicRanges and plyranges](https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing). [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/events/273485109/). 2020 Oct 6. (Virtual).
+- [Introduction to GenomicRanges and plyranges](https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing). [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/events/273485109/). 2020 Oct 6. (Virtual). 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TaEsonYBGlE" frameborder="0" allowfullscreen></iframe></p>
 
@@ -26,10 +30,7 @@ title: "Talks and Other Events"
 - [Communicating statistics and data science to the masses via Open Case Studies](https://docs.google.com/presentation/d/1wSuRsSwI-uEyiPqtXEW12CBwr5qULK6zO7aPHsUH8T8/edit?usp=sharing). [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/). 2020 Aug 1-6. Philadelphia, PA, USA.(Virtual due to COVID-19).
 - [Bench pressing single-cell RNA-sequencing imputation methods](https://docs.google.com/presentation/d/1eD2jz20aDKo-hKFkbp7BRpqt-2d7cqt9Ff_todrL0Zo/edit?usp=sharing). [Bioconductor Conference](http://bioc2020.bioconductor.org). 2020 Jul 29-31. Boston, MA. USA. (Virtual due to COVID-19).
 - [Analyzing Genomics Data in R with Bioconductor](https://docs.google.com/presentation/d/1Qq52SMfRkP_MsvhxqjvJXa-33LXVSmA5ovmnlsyx1iQ/edit?usp=sharing). [R-Ladies Riverside](https://www.meetup.com/rladies-riverside/). 2020 Jul 22.
-- [Addressing Real-World Challenges through Data Science Education](https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing). Academic Data Science Alliance (ADSA) Data Science Education special interest group (SIG). 2020 Jul 2.  
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PRSpf1sJsNw" frameborder="0" allowfullscreen></iframe></p>
-
+- [Addressing Real-World Challenges through Data Science Education](https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing). Academic Data Science Alliance (ADSA) Data Science Education special interest group (SIG). 2020 Jul 2.
 - Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
 - [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](http://www.birs.ca/events/2020/5-day-workshops/20w5197) at Banff International Research Station. 2020 Jun 14-19. (Virtual due to COVID-19). 
 - [Using R and data science to improve human health](https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing). **Keynote presentation** at [The European R Users Meeting](https://2020.erum.io). 2020 June 17-20. Milan, Italy. (Virtual due to COVID-19). 
@@ -40,10 +41,7 @@ Watch a pre-conference interview here:
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
 
-- Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19). Watch a pre-conference interview here: 
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nyX6c3kLDyM" frameborder="0" allowfullscreen></iframe></p>
-
+- Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19).
 - National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
 - Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA. (Virtual)
 - WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.

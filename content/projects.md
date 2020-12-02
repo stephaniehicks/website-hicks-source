@@ -57,7 +57,17 @@ The goal of this project is to develop statistical methods and open-source softw
 
 ### Data Science Education
 
-An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data (1, 2). To address this, I am building the [Open Case Studies](https://www.opencasestudies.org) (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. 
+An increase in demand for statistics and data science education has led to changes in curriculum, specifically an increase in computing. While this has led to more applied courses, students still struggle with effectively deriving knowledge from data and solving real-world problems. In 1999, Deborah Nolan and Terry Speed argued the solution was to teach courses through in-depth case studies derived from interesting scientific questions with nontrivial solutions that leave room for different analyses of the data. This innovative framework teaches the student to make important connections between the scientific question, data and statistical concepts that only come from hands-on experience analyzing data (1, 2). 
+
+#### Open Case Studies 
+
+To address this, I am building the [Open Case Studies](https://www.opencasestudies.org) (OCS) (1) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. This project was selected as a High-Impact Project in 2019-2020 by the Bloomberg American Health Initiative and Bloomberg Philanthropies (2). A list of available cases studies are listed in the [teaching](../teaching/index.html) section. 
+
+1. https://www.opencasestudies.org
+2. https://americanhealth.jhu.edu/open-case-studies
+
+
+#### Theory of Data Analysis
 
 In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses (4) based on objective characteristics, and it provides a framework to teach students how to build data analyses with an emphasis on reproducible data analyses (5). 
 

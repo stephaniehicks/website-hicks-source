@@ -14,11 +14,26 @@ date: "2018-10-18"
 
 ### Data Science 
 
-- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) [[Available on Leanpub](https://leanpub.com/tidyverseskillsdatascience)]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for a set of five courses on Coursera.
+- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) [[Available on Leanpub](https://leanpub.com/tidyverseskillsdatascience)]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) on Coursera.
   - Authors: Shannon C. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks
 
 --- 
 
+# Massive Open Online Courses (MOOCs)
+
+### Tidyverse Skills for Data Science in R Specialization
+
+This five course [specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) series on Coursera allows learners to develop insights from data with tidy tools, such as data import, wrangle, visualize, and modeling data with the Tidyverse R packages. Instructors: Shannon C. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks. 
+
+Coursera specialization: https://www.coursera.org/specializations/tidyverse-data-science-r/
+
+1. [Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse)
+2. [Importing data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data)
+3. [Wrangling data in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling)
+4. [Visualizing data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data)
+5. [Modeling data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data)
+
+--- 
 
 # Open Case Studies
 

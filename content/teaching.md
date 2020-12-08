@@ -14,8 +14,8 @@ date: "2018-10-18"
 
 ### Data Science 
 
-- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) [[Available on Leanpub](https://leanpub.com/tidyverseskillsdatascience)]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) on Coursera.
-  - Authors: Shannon C. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks
+- [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse) [[Available on Leanpub](https://leanpub.com/tidyverseskillsdatascience)] [[Available via bookdown](https://jhudatascience.org/tidyversecourse)]. Online book that teaches users a powerful set of R packages known as the Tidyverse to learn the different aspects of the data science pipeline, from importing the data, tidying the data into a format that is easy to work with, exploring and visualizing the data, and fitting machine learning models. Online companion for the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) on Coursera.
+  - Authors: Shannon E. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks
 
 --- 
 
@@ -23,7 +23,7 @@ date: "2018-10-18"
 
 ### Tidyverse Skills for Data Science in R Specialization
 
-This five course [specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) series on Coursera allows learners to develop insights from data with tidy tools, such as data import, wrangle, visualize, and modeling data with the Tidyverse R packages. Instructors: Shannon C. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks. 
+This five course [specialization](https://www.coursera.org/specializations/tidyverse-data-science-r/) series on Coursera allows learners to develop insights from data with tidy tools, such as data import, wrangle, visualize, and modeling data with the Tidyverse R packages. Instructors: Shannon E. Ellis, Carrie Wright, Roger D. Peng and Stephanie C. Hicks. 
 
 Coursera specialization: https://www.coursera.org/specializations/tidyverse-data-science-r/
 

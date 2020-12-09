@@ -66,6 +66,9 @@ To address this, I am building the [Open Case Studies](https://www.opencasestudi
 1. https://www.opencasestudies.org
 2. https://americanhealth.jhu.edu/open-case-studies
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
+
+
 
 #### Theory of Data Analysis
 

@@ -9,8 +9,14 @@ title: "Talks and Other Events"
 - Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual).
 - More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
+- National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28. (Virtual).
+
 
 ### 2020
+
+- [Bloomberg American Health Summit 2020](https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit). 2020 Dec 9. Baltimore, MD. USA. (Virtual).
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
 
 - CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual). 
 - [Large-scale clustering in Bioconductor](https://www.stephaniehicks.com/biocdemo/). CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual).
@@ -42,7 +48,6 @@ Watch a pre-conference interview here:
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Fy2oKPFeRE" frameborder="0" allowfullscreen></iframe></p>
 
 - Symposium on Data Science and Statistics (SDSS). 2020 Jun 3-5. Pittsburgh, PA. USA. (Virtual due to COVID-19).
-- National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2020 Apr 9. (Postponed to due COVID-19).
 - Fast clustering for single-cell RNA-seq data using mini-batch _k_-means. [ENAR Conference](https://enar.org/meetings/spring2020/). 2020 Mar 22-25. Nashville, TN. USA. (Virtual)
 - WiDS Conference 2020. US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
 - [Statistical Genetics and Genomics at Johns Hopkins Biostatistics](https://docs.google.com/presentation/d/1SKY8fEcWmpwaFQCfd2j-Kr7nH4BQ3-Rfhl2WgmPcI3I/edit?usp=sharing). Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. 2020 Feb 21. Baltimore, MD. USA.

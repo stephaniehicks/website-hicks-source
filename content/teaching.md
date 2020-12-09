@@ -39,6 +39,8 @@ Coursera specialization: https://www.coursera.org/specializations/tidyverse-data
 
 The [Open Case Studies](https://www.opencasestudies.org) (OCS) community resource of case studies that educators can use in the classroom to teach students how to effectively derive knowledge from data. 
 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DgzBSOY5Yc8" frameborder="0" allowfullscreen></iframe></p>
+
 - Exploring global patterns of obesity across rural and urban regions 
   - [[HTML](https://www.opencasestudies.org/ocs-bp-rural-and-urban-obesity)] [[GitHub](https://github.com/opencasestudies/ocs-bp-rural-and-urban-obesity)]
 - Exploring global patterns of dietary behaviors associated with health risk 

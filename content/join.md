@@ -5,7 +5,7 @@ date: "2019-01-02"
 
 ### Open positions
 
-* [Posted Jan 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting Jan 2021 until filled 
+* [Posted Jan 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting Jan 2021 until filled. [[jobRxiv posting](https://jobrxiv.org/job/johns-hopkins-bloomberg-school-of-public-health-27778-postdoctoral-fellowship-in-genomic-data-science-at-johns-hopkins/)]
 
 ### For current students at Johns Hopkins
 

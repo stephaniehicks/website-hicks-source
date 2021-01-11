@@ -10,7 +10,7 @@ title: "Talks and Other Events"
 - More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
 - Scalable statistical methods and software for single-cell data science. National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28. (Virtual).
-- Scalable statistical methods and software for single-cell data science. Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. (Virtual).
+- [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing). Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. (Virtual).
 
 
 ### 2020

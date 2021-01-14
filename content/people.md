@@ -11,7 +11,6 @@ title: "People"
 | ---------------------------- | ---------------------------- | ---------------------------- |  
 | Yongbao Zhuang | ScM student is investigating the development and neurogenesis of the enteric nervous system with single-cell profiling (Joint student with [Subhash Kulkarni](https://www.klab-jhu.com).)
 | ---------------------------- | ---------------------------- | ---------------------------- |  
-| [Nathan Dyjack](https://scholar.google.com/citations?user=KXKrFoAAAAAJ) | PhD student working on developing statistical methods to analyze spatial transcriptomics data. | | 
 | [Albert Kuo](https://albertkuo.me) | PhD student working on developing statistical methods to analyze single-nucleus RNA-sequencing data. | <img width="200" src="/./images/albert_kuo.png"> | 
 | [Erik Nelson](https://cmm.jhmi.edu/index.php/cmm-student/erik-nelson/) | PhD student in [Cellular and Molecular Medicine](https://cmm.jhmi.edu) using single-nucleus RNA-sequencing data to understand human psychiatric disorders (Joint student with [Keri Martinowich](https://twitter.com/martinowk).) | <img width="200" src="/./images/erik_nelson.png"> |
 | ---------------------------- | ---------------------------- | ---------------------------- |  

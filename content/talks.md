@@ -6,10 +6,11 @@ title: "Talks and Other Events"
 
 - Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on "Theoretical and Empirical Contributions to Data Analytic Practice". [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/). 2021 Aug 7-12. Seattle, WA. USA. 
 - Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA.
+- Dynamics and Networks in Single-cell Biology Minisymposium at the [Society for Mathematical Biology](https://www.smb2021.org). University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA (Hybrid/Virtual).
 - Scalable statistical methods and software for single-cell data science. Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual).
 - More (single-cell) data, more (statistical) problems. Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - Addressing Open Challenges in Data Science Education. Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
-- Scalable statistical methods and software for single-cell data science. National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28. (Virtual).
+- [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1pwYvydQAfQd8V5p2Hxlc8iyWzJ_lUBpo91eL34KeGO0/edit?usp=sharing). National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) [Distinguished Speakers Seminar Series](https://btep.ccr.cancer.gov/seminar-series/seminar/). 2021 Jan 28. (Virtual).
 - [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing). Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. (Virtual).
 
 

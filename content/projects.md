@@ -21,11 +21,12 @@ In contrast to bulk RNA-seq experiments, the majority of reported expression lev
 3. **Hou W**, Ji J, Ji H, **Hicks SC** (2020). [A systematic evaluation of single-cell RNA-sequencing imputation methods](https://doi.org/10.1186/s13059-020-02132-x). _Genome Biology_.
 
 
-#### Fast, scalable, memory-efficient methods to analyze single-cell data
+#### Fast, scalable, memory-efficient methods and software to analyze single-cell data
 
-The _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq data. However, with increasing sizes of single-cell data, new methods are needed that are fast, scalable and memory-efficient. To address this, we implemented the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large single cell sequencing data (1). The mini batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format).
+Computational methods and open-source software to store, access, and analyze single-cell data are essential. Most importantly, they need to be fast, scalable, and memory efficient. For example, the _k_-means algorithm is a classic algorithm used in the analysis of scRNA-seq data. However, with increasing sizes of single-cell data, new methods are needed that are fast, scalable and memory-efficient. To address this, we implemented the mini-batch optimization for _k_-means clustering proposed in [Sculley (2010)](https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf) for large single cell sequencing data (1). The mini batch _k_-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). We have also implemented scalable data infrastructure to store and access single-cell data that can be explored with hierarchical structures (e.g. cell types) (2). 
 
-1. **Hicks SC**, Liu R, Ni Y, Purdom E, Risso D (2020). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1101/2020.05.27.119438). Accepted in _PLOS Computational Biology_.
+1. **Hicks SC**, Liu R, Ni Y, Purdom E, Risso D (2020). [mbkmeans: fast clustering for single cell data using mini-batch _k_-means](https://doi.org/10.1371/journal.pcbi.1008625). _PLOS Computational Biology_.
+2. Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, **Hicks SC**, Robinson MD (2020). [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.1). _F1000Research_.
 
 
 #### High-grade serous ovarian cancer subtypes with single-cell profiling
@@ -49,7 +50,14 @@ The goal of this project is to study the steady-state and transcriptomic changes
 
 ### Analysis of genomic data with spatial resolution
 
-The goal of this project is to develop statistical methods and open-source software for the analysis of spatial transcriptomics data. This is highly relevant to public health because these methodologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases. The funding for this project is from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). 
+Spatially resolved transcriptomics (ST), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges (1). 
+
+1. Righelli D, Weber LM, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1101/2021.01.27.428431). _bioRxiv_. 
+
+
+#### Neuroscience
+
+We were first to apply the 10x Visium spatial transcriptomics technology to human tissue. This is highly relevant to public health because these technologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases (1). 
 
 1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). Accepted in _Nature Neuroscience_. 
 

@@ -52,14 +52,14 @@ The goal of this project is to study the steady-state and transcriptomic changes
 
 Spatially resolved transcriptomics (ST), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges (1). 
 
-1. Righelli D, Weber LM, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1101/2021.01.27.428431). _bioRxiv_. 
+1. Righelli D, **Weber LM**, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1101/2021.01.27.428431). _bioRxiv_. 
 
 
 #### Neuroscience
 
 We were first to apply the 10x Visium spatial transcriptomics technology to human tissue. This is highly relevant to public health because these technologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases (1). 
 
-1. Maynard KR, Collado-Torres L, Weber LM, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1101/2020.02.28.969931). Accepted in _Nature Neuroscience_. 
+1. Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
 
 ---
 
@@ -86,7 +86,7 @@ In addition, I am actively thinking about how to define the field from first pri
 2. **Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
 3. **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
 4. **Hicks SC**, Peng RD. (2019). [Evaluating the Success of a Data Analysis](https://arxiv.org/abs/1904.11907). _arXiv_.
-5.  Peng RD, **Hicks SC**. (2020). [Reproducible Research: A Retrospective](https://arxiv.org/abs/2007.12210). _arXiv_.
+5.  Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
 
 --- 
 
@@ -107,4 +107,4 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 2.	**Hicks SC**, Okrah K, Paulson JN, Quackenbush J, Irizarry RA, Bravo HC (2018). [Smooth quantile normalization](https://academic.oup.com/biostatistics/article-abstract/19/2/185/3949169). _Biostatistics_.
 3.	Kumar MS, Slud EV, Okrah K, **Hicks SC**, Hannenhalli S, Corrada Bravo H (2018). [Analysis and correction of compositional bias in sparse sequencing count data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5160-5). _BMC Genomics_. 
 4. 	**Hicks SC**, Irizarry RA (2019). [methylCC: technology-independent estimation of cell type composition using differentially methylated regions](https://doi.org/10.1186/s13059-019-1827-8). _Genome Biology_.
-5. Wang Y, **Hicks SC**, Hansen KD (2020). [Co-expression analysis is biased by a mean-correlation relationship](https://www.biorxiv.org/content/10.1101/2020.02.13.944777v1). _bioRxiv_
+5. Wang Y, **Hicks SC**, Hansen KD (2020). [Co-expression analysis is biased by a mean-correlation relationship](https://www.biorxiv.org/content/10.1101/2020.02.13.944777v1). _bioRxiv_.

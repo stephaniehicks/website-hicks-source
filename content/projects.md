@@ -59,7 +59,7 @@ Spatially resolved transcriptomics (ST), the [Nature Methods 2020 Method of the 
 
 We were first to apply the 10x Visium spatial transcriptomics technology to human tissue. This is highly relevant to public health because these technologies will provide insights into topographical and pathological changes in gene expression for example in the aging human brain or in patients affected by psychiatric diseases (1). 
 
-1. Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2020). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
+1. Maynard KR, Collado-Torres L, **Weber LM**, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, **Hicks SC**, Martinowich K, Jaffe AE (2021). [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0). _Nature Neuroscience_. 
 
 ---
 

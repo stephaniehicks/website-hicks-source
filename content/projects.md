@@ -83,13 +83,14 @@ To address this, I am building the [Open Case Studies](https://www.opencasestudi
 
 #### Theory of Data Analysis
 
-In addition, I am actively thinking about how to define the field from first principles, namely the elements and principles of data analysis, based on the activities of people who analyze data with a language and taxonomy for describing a data analysis in a manner spanning disciplines (3). This leads to two insights: it suggests a formal mechanism to evaluate data analyses (4) based on objective characteristics, and it provides a framework to teach students how to build data analyses with an emphasis on reproducible data analyses (5). 
+The data science revolution has led to an increased interest in the practice of data analysis. While much has been written about _statistical thinking_, a complementary form of thinking that appears in the practice of data analysis is _design thinking_ -- the problem-solving process to understand the people for whom a product is being designed. There can be significant or subtle differences in how a data analyst (or producer of a data analysis) constructs, creates, or designs a data analysis, including differences in the choice of methods, tooling, and workflow. These choices can affect the data analysis products themselves and the experience of the consumer of the data analysis. Therefore, the role of a producer can be thought of as designing the data analysis with a set of design principles (3,4). Our work leads to several insights: it suggests a formal mechanism to describe and evaluate (5) data analyses based on the design principles for data analysis, and it provides a framework to teach students how to build data analyses using formal design principles with an emphasis on reproducible data analyses (6). 
 
 1. **Hicks SC**, Irizarry RA (2018). [A Guide to Teaching Data Science](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1356747?journalCode=utas20). _The American Statistician_. 
 2. **Hicks SC** (2017). [Greater Data Science Ahead](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1385472). _Journal of Computational Graphical Statistics_. 
-3. **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
-4. **Hicks SC**, Peng RD. (2019). [Evaluating the Success of a Data Analysis](https://arxiv.org/abs/1904.11907). _arXiv_.
-5.  Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
+3. D'Agostino McGowan L, Peng RD, **Hicks SC**. (2021). [Design Principles for Data Analysis](https://arxiv.org/abs/2103.05689). _arXiv_.
+4. **Hicks SC**, Peng RD. (2019). [Elements and Principles for Characterizing Variation between Data Analyses](https://arxiv.org/abs/1903.07639). _arXiv_.
+5. **Hicks SC**, Peng RD. (2019). [Evaluating the Success of a Data Analysis](https://arxiv.org/abs/1904.11907). _arXiv_.
+6.  Peng RD, **Hicks SC**. (2021). [Reproducible Research: A Retrospective](https://doi.org/10.1146/annurev-publhealth-012420-105110). _Annual Review of Public Health_.
 
 --- 
 

@@ -22,7 +22,7 @@ title: "People"
 
 | Name| Research topic |
 | :---- | :---- | 
-| Carrie Wright | Research Associate (Biostatistics Faculty) working on developing data science educational content for the [JHU Data Science Lab](https://jhudatascience.org) including [Open Case Studies](http://opencasestudies.org/). |
+| Carrie Wright | Assistant Scientist (Biostatistics Faculty) working on developing data science educational content for the [JHU Data Science Lab](https://jhudatascience.org) including [Open Case Studies](http://opencasestudies.org/). |
 |<img width=250/>|<img width=600/>|
 
 ## Current Research Assistants 

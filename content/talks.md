@@ -8,11 +8,13 @@ title: "Talks and Other Events"
 
 ### 2021
 
-- Community of Scholars (COS) Seminar Series in the Clinical and Translational Science Institute (CTSI) K Scholar Program. University at Buffalo. 2021 Sept 21. Buffalo, NY. USA (Virtual). 
+- 6th Annual MidAtlantic Bioinformatics Conference. 2021 Nov 8. Philadelphia, PA. USA. (Virtual).
+- Lieber Institute Speaker Series. Lieber Institute for Brain Development. 2021 Oct 26. Baltimore, MD. USA. (Virtual).
+- Community of Scholars (COS) Seminar Series in the Clinical and Translational Science Institute (CTSI) K Scholar Program. University at Buffalo. 2021 Sept 21. Buffalo, NY. USA. (Virtual). 
 - Evaluating the Alignment of a Data Analysis between Analyst and Audience. Invited session on "Theoretical and Empirical Contributions to Data Analytic Practice". [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2021/). 2021 Aug 7-12. Seattle, WA. USA. 
 - Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science. Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA.
 - Maths in the Life Sciences Seminar Series. Joint seminar held between the Applied Maths and Biostatistics and Data Science Departments. University of Manchester. 2021 Jul 5. Manchester, England, UK. (Virtual).
-- Dynamics and Networks in Single-cell Biology Minisymposium at the [Society for Mathematical Biology](https://www.smb2021.org). University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA (Hybrid/Virtual).
+- Dynamics and Networks in Single-cell Biology Minisymposium at the [Society for Mathematical Biology](https://www.smb2021.org). University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA. (Hybrid/Virtual).
 - [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/162fFeEOn7cjh7j7JIzXhNVrgeYP0zivE6Fdlu5g_yh0/edit?usp=sharing). Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual). [[Watch online](https://stanford.zoom.us/rec/share/s5WC407FBaSupdzQY1BKYQXsjiNyhQ25mAPHP5P7jC1qERyYuJ-VAbqH1bOeHkQ5.ekxvZh3ymtDU-x51)].
 - [Scalable statistical methods and software for single-cell data science](https://docs.google.com/presentation/d/1F8-zp8FEjQ8xWpWulSEYitN9NcjEBXRoDH4X98xvxHY/edit?usp=sharing). Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 - [Addressing Open Challenges in Data Science Education](https://docs.google.com/presentation/d/1ueWL8XDlifDTsPlAG8lhPx37zzm1YlGKeaNu6gf8CXk/edit?usp=sharing). Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).

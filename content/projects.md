@@ -87,9 +87,10 @@ Normalization is an essential step for the analysis of genomics high-throughput 
 
 # Analysis of genomic data with spatial resolution
 
-Spatially resolved transcriptomics (ST), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges (1). 
+Spatially resolved transcriptomics (ST), the [Nature Methods 2020 Method of the Year](https://doi.org/10.1038/s41592-020-01042-x), is poised to transform our understanding of how the spatial organization and communication of cells in complex tissues. These technologies have created an unprecedented opportunity to investigate important biological questions that can only be answered in a spatial context. However, these technologies also brings new statistical, computational and methodological challenges (1,2). 
 
 1. Righelli D, **Weber LM**, Crowell HL, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, **Hicks SC**, Risso D (2021). [SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](https://doi.org/10.1101/2021.01.27.428431). _bioRxiv_. 
+2. Pardo B, Spangler A, **Weber LM**, **Hicks SC**, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. [spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data](https://doi.org/10.1101/2021.04.29.440149). _bioRxiv_. 
 
 
 #### Neuroscience

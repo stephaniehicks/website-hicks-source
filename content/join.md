@@ -5,7 +5,7 @@ date: "2019-01-02"
 
 ### Open positions
 
-* [Posted Mar 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting Apr 2021 until filled. 
+* [Posted June 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting June 2021 until filled. 
 
 ### For current students at Johns Hopkins
 
@@ -15,7 +15,9 @@ If our projects don't seem that interesting to you, I'm also happy to help intro
 
 ### For prospective students at Johns Hopkins
 
-I mostly supervise students from [Biostatistics](http://www.jhsph.edu/departments/biostatistics/), but am also excited to work with students in any department at JHU. I am not on the admissions committee so I pretty much do not have any say over whether you will get admitted. But if you want to do a Ph.D. at Hopkins Biostat and you have written a cool R package and put it on Github or done an awesome data analysis and posted it on the web, then I want to hear from you. Send me an email with your CV attached, a link to your project, and a one liner about the coolest research project you can think of that relates to anything me or any of my colleagues do. However, please keep in mind I am not on the admission committee and I have no say over who gets admitted to the department, but once you are admitted I'd love to talk more!
+**Please note**: If you are interested in working in my group at Hopkins for your PhD, you must be admitted to a graduate program at JHU [Biostatistics](http://www.jhsph.edu/departments/biostatistics/).
+
+I am excited to work with students in any department at JHU. I am not on the admissions committee so I do not have any say over whether you will get admitted. But if you want to do a PhD at Hopkins Biostat and you have written a cool R package and put it on Github or done an awesome data analysis and posted it on the web, then I want to hear from you. Send me an email with your CV attached, a link to your project, and a one liner about the coolest research project you can think of that relates to anything me or any of my colleagues do. However, please keep in mind I am not on the admission committee and I have no say over who gets admitted to the department, but once you are admitted I'd love to talk more!
 
 ### For prospective postdocs
 

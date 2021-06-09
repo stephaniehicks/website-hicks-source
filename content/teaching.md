@@ -74,7 +74,7 @@ The [Open Case Studies](https://www.opencasestudies.org) (OCS) community resourc
 
 ### Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
 
-* 2021 | **Instructor**, Statistical Computing (140.776)
+* 2021 | **Instructor**, [Statistical Computing](https://stephaniehicks.com/jhustatcomputing2021) (140.776)
 * 2021 | **Co-instructor**, Advanced Data Science II (140.712)
 * 2019 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2019/) (140.711, 140.712)
 * 2018 | **Co-instructor**, [Advanced Data Science I and II](https://jhu-advdatasci.github.io/2018/) (140.711, 140.712)

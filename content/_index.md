@@ -17,4 +17,4 @@ title: "yo"
  <h3 class="no_margin"><font style="font-size:2vw" color="#000000"><font face='Great Vibes'>Join us!</font></font></h3> 
 </div>
 
-Opening for a [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) position in genomic data science to join the Hicks research group. Applications reviewed on a rolling basis starting June 2021 until filled. For more information, see [Join us](../join/index.html).
+Opening for a [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) position in genomic data science to join the Hicks research group. Applications reviewed on a rolling basis starting July 2021 until filled. For more information, see [Join us](../join/index.html).

@@ -5,7 +5,7 @@ date: "2019-01-02"
 
 ### Open positions
 
-* [Posted June 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting June 2021 until filled. 
+* [Posted July 2021]: [Postdoctoral Fellowship](https://docs.google.com/document/d/1CPyfTwDoE_M1va85WHjPsjqQyGofm5YqtP1HMOBiYuY/edit?usp=sharing) -- Applications reviewed on a rolling basis starting July 2021 until filled. 
 
 ### For current students at Johns Hopkins
 
